@@ -246,6 +246,53 @@ See [Tokyo Alternatives](01a_tokyo_alternatives.md) for more options including T
 
 ---
 
+## Where to Stay in Tokyo
+
+### Best Areas for First-Time Visitors
+
+| Area | Why Stay Here | Pros | Cons | Price Range |
+|------|---------------|------|------|-------------|
+| **Shinjuku** | Major transport hub, central | Easy access everywhere, lots of dining/nightlife, views | Can be overwhelming, crowded | €70-120/night |
+| **Shibuya** | Young, trendy, central | Near Harajuku/Omotesando, iconic crossing, vibrant | Noisy, very crowded | €80-130/night |
+| **Asakusa** | Traditional atmosphere | Near Senso-ji, budget-friendly, authentic feel | Farther from Shibuya/Shinjuku | €50-90/night |
+
+### Our Recommendation: **Shinjuku**
+
+**Why Shinjuku is best for your trip:**
+- **Transport hub**: Shinjuku Station is the world's busiest - trains go everywhere
+- **Easy airport access**: Direct Narita Express from airport
+- **Walking distance**: Government Building views, Golden Gai, Omoide Yokocho
+- **Variety**: Everything from budget to luxury hotels
+- **Nightlife**: Great evening options without needing transport
+
+**Specifically, stay near:**
+- **Shinjuku Station West Exit**: Business hotels, quieter, near Government Building
+- **Shinjuku Station East Exit**: More entertainment, closer to Golden Gai
+- **Avoid**: Kabukicho red-light district (unless you want that vibe)
+
+### Hotel Types in Japan
+
+| Type | Description | Price | Notes |
+|------|-------------|-------|-------|
+| **Business Hotel** | Compact, efficient, clean | €60-100 | Best value for couples, e.g., APA, Tokyu Stay, Mitsui Garden |
+| **Capsule Hotel** | Pod-style sleeping | €30-50 | Fun to try once, but not for couples |
+| **Ryokan** | Traditional Japanese inn | €150-400 | Save this for Hakone/Kawaguchiko |
+| **Western Hotel** | International chains | €120-250 | Marriott, Hyatt, etc. - familiar but pricey |
+
+### Sample Hotels (Shinjuku, Mid-Range)
+
+| Hotel | Price/Night | Notes |
+|-------|-------------|-------|
+| **Hotel Gracery Shinjuku** | €90-120 | Famous Godzilla head on building! |
+| **Keio Plaza Hotel** | €100-150 | Near Government Building, reliable |
+| **Tokyu Stay Shinjuku** | €80-110 | Rooms have washer/dryer |
+| **APA Hotel Shinjuku** | €60-90 | Budget-friendly chain, small rooms |
+| **Citadines Shinjuku** | €90-120 | Apartment-style, kitchenette |
+
+*Book on Booking.com or Agoda - compare prices!*
+
+---
+
 ## Restaurant Recommendations
 
 See [Full Food Guide](07_food_guide.md#tokyo) for detailed recommendations with sources.
