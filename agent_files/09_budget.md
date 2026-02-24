@@ -9,15 +9,15 @@
 
 | Category | Total (2 ppl) |
 |----------|---------------|
-| Accommodation | €1,920 |
-| Transportation | €1,270 |
+| Accommodation | €1,730 |
+| Transportation | €1,260 |
 | Food | €1,400 |
-| Activities | €468 |
-| **TOTAL** | **€5,058** |
+| Activities | €510 |
+| **TOTAL** | **€4,900** |
 | **Budget** | €5,000 |
-| **Difference** | +€58 over |
+| **Difference** | **€100 UNDER** ✅ |
 
-**Verdict:** Very close to budget! Easily achievable with minor adjustments (1-2 konbini dinners).
+**Verdict:** Under budget! Day trip to Kawaguchiko (instead of overnight) saves ~€150.
 
 ---
 
@@ -25,25 +25,23 @@
 
 | Location | Nights | Per Night | Total |
 |----------|--------|-----------|-------|
-| Tokyo (first stay) | 5 | €90 | €450 |
-| Hakone/Kawaguchiko ryokan | 1 | €280 | €280 |
+| Tokyo (first stay) | 6 | €90 | €540 |
 | Kyoto | 4 | €100 | €400 |
 | Hiroshima | 1 | €80 | €80 |
 | Miyajima | 1 | €130 | €130 |
 | Okinawa (Onna Village) | 4 | €100 | €400 |
 | Tokyo (final stay) | 2 | €90 | €180 |
-| **TOTAL** | **18 nights** | | **€1,920** |
+| **TOTAL** | **18 nights** | | **€1,730** |
 
 ### Notes on Accommodation
-- **Ryokan** includes dinner + breakfast (offsets food costs)
+- **Kawaguchiko:** Day trip from Tokyo (no overnight needed!)
 - Tokyo/Kyoto prices assume mid-range business hotels
 - Miyajima premium is for overnight on island (worth it!)
 
 ### Ways to Save
 | Change | Savings |
 |--------|---------|
-| Cheaper Tokyo hotel (€70/night) | €100 |
-| Budget ryokan (€200 instead of €280) | €80 |
+| Cheaper Tokyo hotel (€70/night) | €120 |
 | Hostel one night | €40-50 |
 
 ---
@@ -53,9 +51,9 @@
 | Route | Type | Cost (2 ppl) |
 |-------|------|--------------|
 | Airport ↔ Tokyo (arrival) | Narita Express / Bus | €30 |
-| Tokyo metro/JR (5 days) | IC card | €50 |
-| Tokyo → Hakone/Kawaguchiko | Train/Bus | €70 |
-| Hakone → Kyoto | Shinkansen | €150 |
+| Tokyo metro/JR (6 days) | IC card | €60 |
+| **Kawaguchiko day trip** | Highway Bus (return) | €55 |
+| Tokyo → Kyoto | Shinkansen | €200 |
 | Kyoto local transport | Bus/metro | €40 |
 | Kyoto → Nara (round trip) | Train | €30 |
 | Kyoto → Hiroshima | Shinkansen | €130 |
@@ -122,15 +120,17 @@ JR Pass is NOT worth it because you fly to Okinawa instead of returning by train
 | Tokyo National Museum | Tokyo | €12 (¥1,000 each) |
 | Edo-Tokyo Museum | Tokyo | ~€16 (estimated) |
 | Sakurai Tea Ceremony | Tokyo | €80 |
+| **Fuji Yurari onsen** | Day trip | €22 (entry) |
+| **Chureito Pagoda train** | Day trip | €6 |
 | Temples/shrines (various) | Kyoto, Nara | €80 |
 | Peace Memorial Museum | Hiroshima | €10 |
 | Miyajima Ropeway | Miyajima | €40 |
 | Churaumi Aquarium | Okinawa | €50 |
 | Snorkeling/activities | Okinawa | €100 |
 | Miscellaneous | Various | €80 |
-| **TOTAL** | | **€468** |
+| **TOTAL** | | **€508** |
 
-*Note: Switched from TeamLab (€60) to museums (€28) - saves €32*
+*Note: Public onsen (€40) instead of ryokan onsen (included in €600 ryokan) - better experience, lower total cost*
 
 ### Free/Cheap Activities
 Many highlights are free or nearly free:
@@ -148,15 +148,14 @@ Many highlights are free or nearly free:
 
 | Phase | Days | Accommodation | Transport | Food | Activities | Total |
 |-------|------|---------------|-----------|------|------------|-------|
-| Tokyo 1 | 5 | €450 | €80 | €375 | €180 | €1,085 |
-| Onsen | 1 | €280 | €70 | €0* | €0 | €350 |
-| Kyoto | 4 | €400 | €200 | €280 | €80 | €960 |
+| Tokyo 1 | 6 | €540 | €170 | €420 | €210 | €1,340 |
+| Kyoto | 4 | €400 | €230 | €280 | €80 | €990 |
 | Hiroshima | 2 | €210 | €160 | €140 | €50 | €560 |
 | Okinawa | 4 | €400 | €480 | €280 | €150 | €1,310 |
 | Tokyo 2 | 2 | €180 | €60 | €140 | €40 | €420 |
-| **TOTAL** | **18** | **€1,920** | **€1,050** | **€1,215** | **€500** | **€4,685** |
+| **TOTAL** | **18** | **€1,730** | **€1,100** | **€1,260** | **€530** | **€4,620** |
 
-*Ryokan includes meals
+*Kawaguchiko is a day trip from Tokyo - no overnight needed, saves ~€150*
 
 **Note:** Slight differences from earlier totals due to rounding and allocation
 
@@ -173,20 +172,25 @@ These rates fluctuate - check current rates before trip.
 
 ---
 
-## Staying Under €5,000
+## Already Under Budget! ✅
 
-### Easy Savings (Total: ~€150-200)
+By making Kawaguchiko a day trip (not overnight), you're at **~€4,900** - about €100 under budget!
+
+### Extra Buffer Available (~€100)
+
+| If you want to splurge | Cost |
+|------------------------|------|
+| Upgrade sushi dinner | +€50 |
+| Extra snorkeling in Okinawa | +€60 |
+| Private bath at Fuji Yurari | +€22 |
+
+### Or Save Even More
 
 | Adjustment | Save |
 |------------|------|
 | 2 konbini dinners instead of restaurants | €30 |
-| Slightly cheaper Hakone ryokan | €50 |
-| One cheaper Tokyo hotel night | €20 |
-| Skip one paid activity | €40 |
+| Skip Kawaguchiko if weather bad | €100+ |
 | Budget airline for one domestic flight | €40 |
-| **Total savings** | **€180** |
-
-### Result: €5,090 - €180 = **€4,910** ✅ Under budget!
 
 ---
 
@@ -226,13 +230,14 @@ Recommended: Keep €200-300 extra accessible for:
 
 | Splurge On | Why Worth It |
 |------------|--------------|
-| **Ryokan with onsen** | Once-in-a-lifetime Fuji view experience |
-| **TeamLab Planets** | Unforgettable immersive art |
+| **Fuji Yurari private bath** | €22 for 60 min with Mt. Fuji view |
 | **Good sushi dinner** | You're in Japan! |
 | **Miyajima overnight** | Magical after tourists leave |
+| **Okinawa snorkeling** | Crystal clear water, amazing fish |
 
 | OK to Save On | Why |
 |---------------|-----|
+| **Expensive ryokan** | €600/night is crazy - public onsen is just as good |
 | **Breakfasts** | Konbini food is actually great |
 | **Some lunches** | Markets, street food are delicious and cheap |
 | **Basic Tokyo hotels** | You're just sleeping there |

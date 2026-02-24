@@ -1,7 +1,20 @@
-# Onsen & Mount Fuji Guide
-**Days 6-7 (Apr 14-15)**
+# Mt. Fuji & Onsen Day Trip
+**Day Trip from Tokyo (Flexible Date)**
 
 [← Back to Overview](00_TRIP_OVERVIEW.md) | [← Tokyo](01_tokyo.md)
+
+---
+
+## ⛅ HUNT FOR A SUNNY DAY!
+
+> **This day trip is weather-dependent.** Mt. Fuji is only visible on clear days.
+> 
+> **Strategy:** Each evening during your Tokyo stay, check the forecast. When you see a clear day coming → book the bus for next morning.
+> 
+> - 📷 **Mt. Fuji Live Webcam:** Check visibility before deciding
+> - 🌤️ **Weather:** Look for clear skies, low humidity, morning is best
+> - 📅 **Planned for:** Day 5 (April 13) but can be moved to any Tokyo day
+> - ⚠️ **If all days cloudy:** Skip it - don't waste money on a foggy trip
 
 ---
 
@@ -9,223 +22,214 @@
 
 | | |
 |---|---|
-| **Nights** | 1 |
-| **Main Goal** | Onsen (hot spring) with Mt. Fuji view |
-| **Budget** | €200-350 for ryokan (includes dinner + breakfast) |
-| **Best For** | Relaxation, traditional Japanese experience |
+| **Type** | Day trip from Tokyo (no overnight) |
+| **Duration** | Full day (~12 hours) |
+| **Budget** | ~€70-90 per person |
+| **Main Goal** | Onsen with Mt. Fuji view + Chureito Pagoda |
+| **Best For** | Clear weather days only |
 
 ---
 
-## Why This Matters
+## Why Day Trip (Not Overnight)
 
-Your girlfriend specifically requested an onsen with a view of Mount Fuji. This is a classic, bucket-list Japanese experience - soaking in natural hot springs while gazing at Japan's iconic mountain.
-
-**Important:** Fuji views are weather-dependent. Clear mornings (especially sunrise) offer the best chance.
-
----
-
-## Two Location Options
-
-You have a choice between two areas. Both offer onsen experiences, but they differ in Fuji view reliability.
-
-### Option A: Lake Kawaguchiko (RECOMMENDED)
-**Best for: Guaranteed Mt. Fuji views**
-
-| Pros | Cons |
-|------|------|
-| Direct, unobstructed Fuji views | Slightly longer travel (2h from Tokyo) |
-| Lake + mountain = stunning scenery | Less "onsen town" atmosphere |
-| Many ryokans have Fuji-view rooms | Requires backtracking to reach Kyoto |
-
-### Option B: Hakone
-**Best for: Convenience, classic onsen town**
-
-| Pros | Cons |
-|------|------|
-| On the way to Kyoto (easier logistics) | Fuji views are weather-dependent |
-| Classic onsen resort town | Mountains may block Fuji |
-| More activities (ropeway, lake, museums) | Less reliable Fuji sighting |
-
-**My recommendation:** Choose **Kawaguchiko** if Mt. Fuji view is the priority. The slight travel inconvenience is worth it for the guaranteed view.
+| Overnight Stay | Day Trip |
+|----------------|----------|
+| €170-200 for basic hotel | €0 accommodation |
+| Locked to specific date | Flexible - pick the sunny day |
+| If cloudy, money wasted | If cloudy, just don't go |
+| Complicated logistics | Simple: go and return |
 
 ---
 
-## Ryokan Recommendations
+## Fuji Yurari Onsen
 
-### Lake Kawaguchiko Area
+**The highlight of the trip** - a public onsen with spectacular Mt. Fuji views.
 
-| Ryokan | Price (2 ppl/night) | Rating | Fuji View | Notes |
-|--------|---------------------|--------|-----------|-------|
-| **THE KUKUNA** | ~€330 | 4.6/5 | ★★★★★ | All rooms have Fuji-view terraces, recently renovated |
-| **Konansou** | ~€310 | 4.7/5 | ★★★★★ | Lakeside, 8th floor onsen with view |
-| **Fuji View Hotel** | ~€200 | 8.8/10 | ★★★★☆ | 100,000m² garden, indoor/outdoor baths |
-| **Ooike Hotel** | ~€310 | Good | ★★★★☆ | Small (21 rooms), intimate |
+| | |
+|---|---|
+| **Address** | 8532-5 Narusawa, Minamitsuru District, Yamanashi 401-0320 |
+| **📍 Google Maps** | [Fuji Yurari Hot Spring](https://maps.google.com/?q=Fuji+Yurari+Hot+Spring,Narusawa,Japan) |
+| **Phone** | 0555-85-3126 |
+| **Website** | www.fuji-yurari.jp |
 
-**Source:** ikyu.com (Japanese hotel booking), Booking.com, research January 2026
+### Hours & Prices
 
-### Hakone Area
+| | Weekdays | Weekends/Holidays |
+|---|----------|-------------------|
+| **Hours** | 10:00 - 21:00 | 10:00 - 22:00 |
+| **Last Entry** | 20:00 | 21:00 |
+| **Adult Entry** | ¥1,400 (~€9) | ¥1,700 (~€11) |
+| **After 19:00** | ¥1,200 | ¥1,500 |
+| **Private Bath** | ¥3,500/60 min (~€22) | Same |
 
-| Ryokan | Price/night | Rating | Fuji View | Notes |
-|--------|-------------|--------|-----------|-------|
-| **Hakone Kowakien Ten-yu** | ~€220+ | 9.1/10 | ★★★☆☆ | All rooms have private onsen, mountain views |
-| **Mount View Hakone** | ~€200 | Good | ★★★☆☆ | Rare milky-white nigori-yu hot spring |
-| **Hakone Ginyu** | ~€550+ | Luxury | ★★☆☆☆ | Valley views (not Fuji), private terrace onsen |
-| **Onsen Guest House Tsutaya** | ~€170 | 9.3/10 | ★★☆☆☆ | Budget-friendly, shared onsen |
+### What Makes It Special
 
-**Source:** Booking.com, KAYAK, official websites, research January 2026
+- **16 different baths** - outdoor, cave, carbonated, mist, panoramic
+- **Wide-open Mt. Fuji panorama** from outdoor baths
+- **Much better than hotel onsen** - hotel private baths are tiny (1 person), views through small windows
+- **Restaurant on-site** - can have lunch/dinner there
+- **Rest areas** - relax after bathing
+
+### Important Notes
+
+| ⚠️ | |
+|---|---|
+| **Tattoos** | NOT allowed in public baths. Use private bath (¥3,500) if you have tattoos |
+| **Towels** | Rental available (small fee) - no need to bring |
+| **No cameras** | Photography not allowed inside bathing areas |
 
 ---
 
-## Day-by-Day Itinerary
+## Getting There
 
-### Day 6 - April 14 (Tuesday): Travel + Onsen
+### Step 1: Tokyo → Kawaguchiko Station
 
-#### If choosing Kawaguchiko:
+| Option | Departs From | Time | Price | Book Ahead? |
+|--------|--------------|------|-------|-------------|
+| **Highway Bus** (recommended) | Shinjuku (Busta) | ~2h | ¥2,200 | Yes, night before |
+| **Fuji Excursion Train** | Shinjuku | ~1h 53m | ¥4,130 | Yes |
+| **Local Train** | Shinjuku | ~2h 30m | ~¥2,500 | No |
+
+**Bus booking:** [highwaybus.com](https://www.highwaybus.com) or [highway-buses.jp](https://highway-buses.jp)
+
+**April is cherry blossom season** - book the night before when you confirm weather!
+
+### Step 2: Kawaguchiko → Chureito Pagoda
+
+**No direct sightseeing bus!** Use train:
+
+| Step | Details | Time | Cost |
+|------|---------|------|------|
+| Train | Kawaguchiko → Shimoyoshida Station | 7 min | ¥240 |
+| Walk | Station → Pagoda base | 20 min | - |
+| Climb | 398 steps to the pagoda | 10-15 min | - |
+
+**Note:** During cherry blossom (April 1-18), free shuttle runs from Shimoyoshida Station.
+
+### Step 3: Kawaguchiko → Fuji Yurari
+
+| Option | Details | Time | Cost |
+|--------|---------|------|------|
+| **Free Shuttle** | Direct from Kawaguchiko Station | 15-20 min | Free |
+| **Blue Line Bus** | To Road Station Narusawa, 3 min walk | ~25 min | Day pass |
+
+#### Free Shuttle Schedule
+
+| From Kawaguchiko Station | From Yurari Area |
+|--------------------------|------------------|
+| 09:00, 10:00, 11:00, 12:00, 13:00, 14:00, 15:00, 16:00, 17:00 | 08:30, 09:30, 10:30, 11:30, 12:30, 13:30, 14:30, 15:30, 16:30 |
+
+**⚠️ Reservation required!** Call 0555-85-3126 day before or 1 hour before departure.
+
+**⚠️ Last shuttle back: 16:30** - after that, taxi only (~¥3,000)
+
+#### Blue Line Bus (Alternative)
+
+- Part of sightseeing bus network
+- Only **4 round trips per day** - check schedule on arrival
+- Day pass (¥1,500) covers this + Red/Green lines
+
+---
+
+## The Day Trip Itinerary
+
+**Planned for Day 5 (April 13) - but move to any clear day**
 
 | Time | Activity | Notes |
 |------|----------|-------|
-| 09:00 | Check out Tokyo hotel | |
-| 09:30 | **Send luggage to Kyoto** | Takuhaibin service (~€15, arrives next day) |
-| 10:00 | Bus from Shinjuku Expressway Bus Terminal | ~2 hours to Kawaguchiko |
-| 12:00 | Arrive Kawaguchiko | |
-| 12:30 | Lunch near station | |
-| 13:30 | **Chureito Pagoda** | Iconic Fuji + pagoda photo spot (if weather clear) |
-| 15:00 | Walk along lake shore | |
-| 16:00 | **Check into ryokan** | |
-| 16:30 | **Onsen time** | Soak in hot spring with Fuji view! |
-| 18:30 | **Kaiseki dinner** | Multi-course traditional meal (included) |
-| 20:30 | **Evening onsen** | Night bathing is magical |
+| 06:00 | Check weather/webcam | Final go/no-go decision |
+| 07:00 | Bus from Shinjuku (Busta) | Book night before! |
+| 09:00 | Arrive Kawaguchiko Station | |
+| 09:10 | Train to Shimoyoshida | ¥240, 7 min |
+| 09:20 | Walk to Chureito Pagoda | 20 min + 398 steps |
+| 10:00 | **Chureito Pagoda** | Photos with Mt. Fuji! |
+| 11:00 | Return to Kawaguchiko | Train back |
+| 11:30 | Lunch near station | Try Houtou noodles (local specialty) |
+| 13:00 | **Free shuttle to Fuji Yurari** | Reserve ahead! |
+| 13:20 | Arrive Fuji Yurari | |
+| 13:30 | **ONSEN TIME** | Soak with Mt. Fuji view! |
+| 16:00 | Shuttle back to station | 16:30 is last shuttle! |
+| 16:30 | Arrive Kawaguchiko Station | |
+| 17:00 | Bus back to Tokyo | |
+| 19:00 | Arrive Shinjuku | |
 
-#### If choosing Hakone:
-
-| Time | Activity | Notes |
-|------|----------|-------|
-| 09:00 | Check out Tokyo hotel | |
-| 09:30 | Send luggage to Kyoto | Takuhaibin service |
-| 10:00 | Train to Odawara | Shinkansen (~35 min) or local (~1.5h) |
-| 11:00 | Hakone Tozan train/bus to your ryokan area | |
-| 12:00 | Store bags, lunch | |
-| 13:00 | **Hakone Ropeway** | Aerial views, Owakudani volcanic valley |
-| 14:30 | **Owakudani** | Volcanic area, eat black eggs (adds 7 years to life!) |
-| 15:30 | Continue ropeway or return | |
-| 16:00 | **Check into ryokan** | |
-| 16:30 | **Onsen time** | Private or shared bath |
-| 18:30 | **Kaiseki dinner** | |
-| 20:30 | **Evening onsen** | |
+**Total onsen time:** ~2.5 hours (plenty for a great experience)
 
 ---
 
-### Day 7 - April 15 (Wednesday): Morning + Travel to Kyoto
+## Budget
 
-#### If Kawaguchiko:
+| Item | Cost (2 people) |
+|------|-----------------|
+| Bus Tokyo ↔ Kawaguchiko (return) | ~€55 |
+| Train to Shimoyoshida (return) | ~€6 |
+| Fuji Yurari entry | ~€18-22 |
+| Lunch | ~€25-30 |
+| **TOTAL** | **~€105-115** |
 
-| Time | Activity | Notes |
-|------|----------|-------|
-| 06:00 | **Sunrise onsen** | Best chance for clear Fuji view! |
-| 07:30 | Breakfast at ryokan | |
-| 09:00 | Check out | |
-| 09:30 | Last lake walk or photo spots | |
-| 11:00 | Bus to Tokyo (Shinjuku) | ~2 hours |
-| 13:00 | Arrive Tokyo, grab lunch | |
-| 14:00 | **Shinkansen to Kyoto** | ~2h 15min |
-| 16:15 | Arrive Kyoto | |
-| 17:00 | Check into hotel (luggage waiting!) | |
-| 18:00 | Walk around Kyoto Station | |
-| 19:00 | Dinner near station | |
-
-#### If Hakone:
-
-| Time | Activity | Notes |
-|------|----------|-------|
-| 06:30 | **Sunrise onsen** | Hope for clear Fuji view! |
-| 08:00 | Breakfast at ryokan | |
-| 09:30 | Check out | |
-| 10:00 | **Lake Ashi cruise** | "Pirate ship" boat ride |
-| 11:00 | **Hakone Shrine** | Torii gate in the water |
-| 12:00 | Bus/train to Odawara | |
-| 13:00 | Lunch at Odawara station | |
-| 13:30 | **Shinkansen to Kyoto** | ~2h from Odawara |
-| 15:30 | Arrive Kyoto | |
-| 16:00 | Check into hotel | |
-| 17:00 | Explore Kyoto Station area | |
-| 19:00 | Dinner | |
+Optional:
+- Private bath at Yurari: +€22
+- Sightseeing bus day pass: +€10
 
 ---
 
-## What to Expect at a Ryokan
+## Onsen Etiquette
 
-### The Experience
-1. **Arrival**: Remove shoes at entrance, staff greets you
-2. **Room**: Tatami mat floors, futon beds (laid out while at dinner)
-3. **Yukata**: Change into provided cotton robe, wear around ryokan
-4. **Onsen**: Public (separated by gender) and/or private baths
-5. **Dinner**: Kaiseki - elaborate multi-course traditional meal
-6. **Breakfast**: Traditional Japanese breakfast included
+### The Rules
 
-### Onsen Etiquette
 1. **Wash BEFORE entering** the bath (shower area provided)
-2. **No swimsuits** - you bathe naked
+2. **No swimsuits** - you bathe naked (genders separated)
 3. **Small towel** for modesty, but don't put it in the water
-4. **Tattoos**: Some onsen prohibit them; many modern ryokans are flexible, or have private baths
-5. **Be quiet**: Onsen is for relaxation, keep voices low
+4. **Be quiet** - onsen is for relaxation, keep voices low
+5. **No phones/cameras** in bathing areas
+6. **Tattoos** - not allowed in public baths, use private bath
 
 ### What's Provided
-- Yukata (robe)
-- Towels (small and large)
-- Toiletries
-- Slippers
-- Room amenities (tea set, snacks)
+
+- Towel rental (small fee)
+- Shampoo, body wash
+- Lockers for belongings
+- Hairdryers, rest areas
 
 ### What to Bring
-- Nothing really! Maybe:
-  - Tattoo cover stickers (if needed)
+
+- Nothing required! Optionally:
+  - Hair tie (long hair must be up)
   - Your own skincare products
-  - A book for relaxing
 
 ---
 
-## Bad Weather Alternatives
+## If Weather is Bad
 
-If Mt. Fuji is hidden in clouds:
+If Mt. Fuji isn't visible, **don't go**. Do a Tokyo activity instead:
 
-### Kawaguchiko
-| Activity | Notes |
-|----------|-------|
-| **Itchiku Kubota Art Museum** | Stunning kimono art |
-| **Kawaguchiko Music Forest** | European-style gardens, music boxes |
-| **Yamanashi Gem Museum** | Gemstones and jewelry |
-| **Onsen hopping** | Visit multiple hot springs |
+- Tokyo National Museum
+- Yanaka/Nezu neighborhood
+- Shopping day
+- TeamLab (if you want to add it)
 
-### Hakone
-| Activity | Notes |
-|----------|-------|
-| **Hakone Open-Air Museum** | Sculptures, Picasso collection |
-| **Pola Museum of Art** | Impressionist paintings |
-| **Hakone Shrine** | Beautiful even in rain |
-| **Yunessun** | Onsen theme park (wine bath, sake bath, etc.) |
+Check again next day. If all Tokyo days are cloudy, skip Kawaguchiko entirely - you'll still have a great trip.
 
 ---
 
-## Booking Tips
+## Booking Checklist
 
-1. **Book 2-3 months ahead** - Good ryokans sell out, especially for weekends
-2. **Book directly** on ryokan website for best rates
-3. **Specify room preference** - Request Fuji-view room explicitly
-4. **Check cancellation policy** - Usually strict (7-14 days)
-5. **Confirm dietary needs** - Kaiseki is fish-heavy; vegetarian options possible with advance notice
+| When | What | How |
+|------|------|-----|
+| **Night before** (if weather clear) | Bus tickets | [highwaybus.com](https://www.highwaybus.com) |
+| **Night before** | Yurari shuttle | Call 0555-85-3126 |
+| **Morning of** | Final weather check | Mt. Fuji webcam |
 
 ---
 
-## Budget Note
+## Useful Links
 
-Ryokan stays seem expensive (€200-350) but include:
-- Accommodation
-- Elaborate dinner
-- Traditional breakfast
-- Onsen access
-- Yukata and amenities
-
-This is actually good value compared to hotel + separate dinner.
+| Resource | Link |
+|----------|------|
+| **Fuji Yurari Location** | [Google Maps](https://maps.google.com/?q=Fuji+Yurari+Hot+Spring,Narusawa,Japan) |
+| **Bus Booking** | [highwaybus.com](https://www.highwaybus.com) |
+| **Mt. Fuji Webcam** | Search "Mt Fuji live camera" |
+| **Weather Forecast** | [weather.com](https://weather.com) - search Kawaguchiko |
 
 ---
 

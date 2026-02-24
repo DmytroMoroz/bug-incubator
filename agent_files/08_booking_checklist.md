@@ -13,7 +13,7 @@ These sell out or get expensive - don't wait!
 
 | Item | Why Urgent | How to Book | Est. Cost |
 |------|------------|-------------|-----------|
-| **International flights** | Prices increase closer to date | Skyscanner, Google Flights, direct airline | €1,200-1,500/person |
+| ~~**International flights**~~ | ✅ **DONE!** | | |
 | **Hakone/Kawaguchiko ryokan** | Good ones book months ahead | Direct website, Booking.com | €200-350/night |
 | **Sakurai Tea Ceremony** | Popular, limited 8 seats, 1.5-2h experience | sakurai-tea.jp/en | €25-40/person |
 
@@ -60,10 +60,10 @@ These sell out or get expensive - don't wait!
 
 ### Flights
 
-- [ ] **Vienna → Tokyo** (Apr 9, arrive ~08:50)
-  - Direct flights available (ANA, Austrian Airlines)
-  - Check: Narita (NRT) vs Haneda (HND) - Haneda is closer to city
+- [✓] **Vienna → Tokyo** (Apr 9, arrive 08:50) ✅ BOOKED
   
+- [✓] **Tokyo → Vienna** (Apr 30, depart 11:10) ✅ BOOKED
+
 - [ ] **Hiroshima → Naha** (Apr 21, afternoon)
   - Check Hiroshima Airport (HIJ) - limited flights
   - Alternative: Fukuoka Airport (FUK) - more options, 1h Shinkansen from Hiroshima
@@ -72,9 +72,6 @@ These sell out or get expensive - don't wait!
 - [ ] **Naha → Tokyo** (Apr 26, morning)
   - Haneda preferred (closer to city than Narita)
   - Airlines: ANA, JAL, Skymark, Peach
-
-- [ ] **Tokyo → Vienna** (Apr 30, 11:10)
-  - Match with arrival airport if possible
 
 ---
 
