@@ -14,7 +14,6 @@ These sell out or get expensive - don't wait!
 | Item | Why Urgent | How to Book | Est. Cost |
 |------|------------|-------------|-----------|
 | ~~**International flights**~~ | ✅ **DONE!** | | |
-| **Hakone/Kawaguchiko ryokan** | Good ones book months ahead | Direct website, Booking.com | €200-350/night |
 | **Sakurai Tea Ceremony** | Popular, limited 8 seats, 1.5-2h experience | sakurai-tea.jp/en | €25-40/person |
 
 *Note: TeamLab Planets moved to optional - see [Tokyo Alternatives](01a_tokyo_alternatives.md). If you want it, book weeks ahead at teamlab.art*
@@ -80,12 +79,11 @@ These sell out or get expensive - don't wait!
 | City | Dates | Nights | Status |
 |------|-------|--------|--------|
 | Tokyo #1 | Apr 9-14 | 5 | [ ] |
-| Hakone/Kawaguchiko | Apr 14-15 | 1 | [ ] |
-| Kyoto | Apr 15-19 | 4 | [ ] |
-| Hiroshima | Apr 19-20 | 1 | [ ] |
-| Miyajima | Apr 20-21 | 1 | [ ] |
-| Okinawa | Apr 22-26 | 4 | [ ] |
-| Tokyo #2 | Apr 26-28 | 2 | [ ] |
+| Kyoto | Apr 14-18 | 4 | [ ] |
+| Hiroshima | Apr 18-19 | 1 | [ ] |
+| Miyajima | Apr 19-20 | 1 | [ ] |
+| Okinawa | Apr 20-25 | 4 | [ ] |
+| Tokyo #2 | Apr 25-28 | 3 | [ ] |
 
 ---
 
@@ -94,7 +92,6 @@ These sell out or get expensive - don't wait!
 | Activity | Date | Status | Booking Link |
 |----------|------|--------|--------------|
 | Sakurai Tea (book 5pm slot) | Apr 13 | [ ] | sakurai-tea.jp/en |
-| Ryokan (onsen) | Apr 14 | [ ] | Direct/Booking.com |
 | Kichi Kichi (omurice) | Apr 17 | [ ] | kichikichi.com |
 | Miyajima hotel | Apr 20 | [ ] | Booking.com |
 
