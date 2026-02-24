@@ -235,19 +235,18 @@ After 2023 price increase, JR Pass is NOT cost-effective for your route:
 
 | Your Route | Individual Cost |
 |------------|----------------|
-| Tokyo → Hakone/Odawara | ~€25/person |
-| Odawara → Kyoto | ~€75/person |
+| Tokyo → Kyoto | ~€100/person |
 | Kyoto → Hiroshima | ~€65/person |
 | **Total** | ~€165/person |
 
 **7-Day JR Pass: €310/person** - You'd lose money!
 
-*Note: You fly to Okinawa, so no train back to Tokyo*
+*Note: Kawaguchiko is a day trip (not JR covered anyway), and you fly to Okinawa, so no train back to Tokyo*
 
 ### Luggage Forwarding (Takuhaibin)
 
 **Use this service!** Send your big luggage ahead:
-- Tokyo → Kyoto (send before leaving for Hakone)
+- Tokyo → Kyoto (send morning of Day 7 before Shinkansen)
 - Kyoto → Okinawa hotel (send before leaving for Hiroshima)
 
 | Service | Where to Send | Cost | Delivery |

@@ -9,13 +9,13 @@
 
 | Category | Total (2 ppl) |
 |----------|---------------|
-| Accommodation | €1,730 |
+| Accommodation | €1,820 |
 | Transportation | €1,260 |
 | Food | €1,400 |
 | Activities | €510 |
-| **TOTAL** | **€4,900** |
+| **TOTAL** | **€4,990** |
 | **Budget** | €5,000 |
-| **Difference** | **€100 UNDER** ✅ |
+| **Difference** | **€10 UNDER** ✅ |
 
 **Verdict:** Under budget! Day trip to Kawaguchiko (instead of overnight) saves ~€150.
 
@@ -30,8 +30,8 @@
 | Hiroshima | 1 | €80 | €80 |
 | Miyajima | 1 | €130 | €130 |
 | Okinawa (Onna Village) | 4 | €100 | €400 |
-| Tokyo (final stay) | 2 | €90 | €180 |
-| **TOTAL** | **18 nights** | | **€1,730** |
+| Tokyo (final stay) | 3 | €90 | €270 |
+| **TOTAL** | **19 nights** | | **€1,820** |
 
 ### Notes on Accommodation
 - **Kawaguchiko:** Day trip from Tokyo (no overnight needed!)
@@ -87,12 +87,12 @@ JR Pass is NOT worth it because you fly to Okinawa instead of returning by train
 
 | Meal | Per Day (2 ppl) | Days | Total |
 |------|-----------------|------|-------|
-| Breakfast | €10 | 18* | €180 |
+| Breakfast | €10 | 20 | €200 |
 | Lunch | €25 | 20 | €500 |
-| Dinner | €40 | 18* | €720 |
+| Dinner | €35 | 20 | €700 |
 | **TOTAL** | | | **€1,400** |
 
-*Ryokan nights include breakfast and dinner, reducing count
+*~€70/day total for 2 people for all meals*
 
 ### Daily Food Budget
 - **Breakfast:** €5/person - konbini, hotel, or cafe
@@ -152,8 +152,8 @@ Many highlights are free or nearly free:
 | Kyoto | 4 | €400 | €230 | €280 | €80 | €990 |
 | Hiroshima | 2 | €210 | €160 | €140 | €50 | €560 |
 | Okinawa | 4 | €400 | €480 | €280 | €150 | €1,310 |
-| Tokyo 2 | 2 | €180 | €60 | €140 | €40 | €420 |
-| **TOTAL** | **18** | **€1,730** | **€1,100** | **€1,260** | **€530** | **€4,620** |
+| Tokyo 2 | 3 | €270 | €60 | €210 | €40 | €580 |
+| **TOTAL** | **19** | **€1,820** | **€1,100** | **€1,330** | **€530** | **€4,780** |
 
 *Kawaguchiko is a day trip from Tokyo - no overnight needed, saves ~€150*
 
@@ -172,11 +172,11 @@ These rates fluctuate - check current rates before trip.
 
 ---
 
-## Already Under Budget! ✅
+## Just Under Budget ✅
 
-By making Kawaguchiko a day trip (not overnight), you're at **~€4,900** - about €100 under budget!
+You're at **~€4,990** - about €10 under budget (tight but works!)
 
-### Extra Buffer Available (~€100)
+### Minimal Buffer Available (~€10)
 
 | If you want to splurge | Cost |
 |------------------------|------|

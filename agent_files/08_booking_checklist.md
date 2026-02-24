@@ -25,7 +25,7 @@ These sell out or get expensive - don't wait!
 | Item | Notes | How to Book | Est. Cost |
 |------|-------|-------------|-----------|
 | **Domestic flights** | Hiroshima→Naha, Naha→Tokyo | ANA, JAL, Peach, Jetstar | €100-200/flight |
-| **Tokyo hotels (5 nights)** | Good availability but book for peace of mind | Booking.com, Agoda | €80-100/night |
+| **Tokyo hotels (6 nights)** | Good availability but book for peace of mind | Booking.com, Agoda | €80-100/night |
 | **Kyoto hotels (4 nights)** | Popular destination | Booking.com, Agoda | €90-110/night |
 | **Okinawa rental car** | April is peak, prices high | Nippon, Toyota, Times | €60-75/day |
 | **Okinawa hotel (4 nights)** | Onna Village area | Booking.com | €80-120/night |
@@ -78,12 +78,12 @@ These sell out or get expensive - don't wait!
 
 | City | Dates | Nights | Status |
 |------|-------|--------|--------|
-| Tokyo #1 | Apr 9-14 | 5 | [ ] |
-| Kyoto | Apr 14-18 | 4 | [ ] |
-| Hiroshima | Apr 18-19 | 1 | [ ] |
-| Miyajima | Apr 19-20 | 1 | [ ] |
-| Okinawa | Apr 20-25 | 4 | [ ] |
-| Tokyo #2 | Apr 25-28 | 3 | [ ] |
+| Tokyo #1 | Apr 9-15 | 6 | [ ] |
+| Kyoto | Apr 15-19 | 4 | [ ] |
+| Hiroshima | Apr 19-20 | 1 | [ ] |
+| Miyajima | Apr 20-21 | 1 | [ ] |
+| Okinawa | Apr 22-26 | 4 | [ ] |
+| Tokyo #2 | Apr 26-29 | 3 | [ ] |
 
 ---
 
@@ -104,7 +104,7 @@ These sell out or get expensive - don't wait!
 | Item | Status | Notes |
 |------|--------|-------|
 | Okinawa rental car | [ ] | Pick up Naha Airport Apr 22, return Apr 26 |
-| Pocket WiFi | [ ] | Order online, pick up at arrival airport |
+| eSIM (Ubigi) | [ ] | Buy online, install before trip - see [Practical Info](06_practical_info.md) |
 | International Driving Permit | [ ] | Get from ÖAMTC or equivalent |
 
 ---
@@ -141,11 +141,10 @@ These sell out or get expensive - don't wait!
 - **Direct booking** - sometimes best rate + perks
 - **Check location** - near metro station is key
 
-### Ryokans
+### Miyajima Accommodation
 - **Book direct** for best rates and room requests
-- **Specify Fuji-view room** if that's your priority
+- Staying on island overnight highly recommended
 - **Check cancellation policy** - often strict (7-14 days)
-- **Note dietary restrictions** - kaiseki dinner is fish-heavy
 
 ### Domestic Flights Japan
 - **ANA/JAL** - reliable, slightly pricier

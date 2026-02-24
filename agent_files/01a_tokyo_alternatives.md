@@ -103,6 +103,36 @@ Your trip (April) misses Tokyo tournaments, BUT:
 
 ---
 
+## 🌸 Perfect for Final Tokyo Days (Apr 26-29)
+
+These activities are ideal for your last 3 nights - mix of relaxed, revisitable, or things you might have missed:
+
+### Recommended for Golden Week (Apr 29)
+⚠️ Golden Week starts Apr 29 - major tourist spots will be packed!
+
+| Activity | Why It Works | Crowd Level |
+|----------|--------------|-------------|
+| **Shimokitazawa** | Hipster neighborhood, locals go here | Medium |
+| **Yanaka/Nezu** | Quiet old Tokyo (revisit from Day 2?) | Low |
+| **Koenji** | Off-beat, vintage shops | Low |
+| **TeamLab Planets** | Timed entry = controlled crowds | Medium |
+| **Nice dinner** | Book ahead, eat early (6pm) | Varies |
+
+### Avoid on Golden Week
+- Senso-ji / Asakusa (extremely crowded)
+- Shibuya Crossing / Harajuku (packed)
+- Major department stores (very busy)
+- Popular shrines (Meiji, etc.)
+
+### Relaxed Final Day Ideas
+- Return to favorite coffee shop or restaurant
+- Leisurely walk in Yanaka cemetery (peaceful)
+- Final souvenir shopping in quiet neighborhood
+- Pack, organize, reflect on the trip
+- Early dinner at a special restaurant
+
+---
+
 ## Quick Decision Guide
 
 | If you want... | Go to... |

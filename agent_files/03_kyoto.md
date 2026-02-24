@@ -37,7 +37,7 @@ Kyoto was Japan's capital for over 1,000 years. It's the cultural heart of Japan
 
 ### Day 7 Evening - April 15 (Wednesday): Arrival
 
-*(You arrive from Hakone/Kawaguchiko)*
+*(You arrive from Tokyo)*
 
 | Time | Activity | Notes |
 |------|----------|-------|

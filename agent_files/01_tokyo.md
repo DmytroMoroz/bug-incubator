@@ -1,5 +1,5 @@
 # Tokyo Guide
-**Days 1-5 (Apr 9-14) + Days 18-20 (Apr 26-28)**
+**Days 1-6 (Apr 9-15) + Days 18-20 (Apr 26-28)**
 
 [← Back to Overview](00_TRIP_OVERVIEW.md)
 
@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| **Total Nights** | 7 (5 first stay + 2 final stay) |
+| **Total Nights** | 9 (6 first stay + 3 final stay) |
 | **Best Area to Stay** | Shinjuku or Shibuya |
 | **Budget per Night** | €80-100 |
 | **Getting Around** | Metro + walking (get Suica card!) |
@@ -154,7 +154,7 @@ Tokyo is the world's largest metropolitan area - a mind-bending mix of ancient t
 | 15:30 | Return to Tokyo (Omotesando area) | |
 | 17:00 | **Sakurai Tea Experience** | 8-seat counter, 1.5-2 hour experience |
 | 19:00 | Light dinner near Omotesando | |
-| 20:30 | Train to Hakone/Kawaguchiko | Or stay Tokyo, early train next day |
+| 21:00 | Return to hotel | |
 
 **About Sakurai Tea Experience:**
 - **Hours:** 11:00 AM - 11:00 PM (NOT 10:00 as incorrectly noted before)
@@ -174,7 +174,50 @@ Tokyo is the world's largest metropolitan area - a mind-bending mix of ancient t
 
 ---
 
-## Final Tokyo (Days 18-20) {#final-tokyo}
+### Day 6 - April 14 (Tuesday): Fuji Day Trip OR Flexible Day
+
+> ⛅ **WEATHER CHECK:** This day can be swapped with any clear day!
+> See [Onsen & Fuji Guide](02_onsen_fuji.md) for full details.
+
+**If Mt. Fuji is visible (clear weather):**
+
+| Time | Activity | Notes |
+|------|----------|-------|
+| 07:00 | Bus from Shinjuku (Busta) | Book night before! |
+| 09:00 | Arrive Kawaguchiko | |
+| 09:30 | Train to Chureito Pagoda | |
+| 10:00 | **Chureito Pagoda** | Iconic Fuji photos |
+| 11:30 | Return to Kawaguchiko | |
+| 12:00 | Lunch (Houtou noodles) | |
+| 13:00 | Shuttle to Fuji Yurari | Reserve ahead! |
+| 13:30 | **Fuji Yurari Onsen** | Soak with Mt. Fuji view! |
+| 16:30 | Return to station | |
+| 17:00 | Bus to Tokyo | |
+| 19:00 | Dinner in Tokyo | |
+
+**If weather is bad (cloudy/rainy):**
+
+| Time | Activity | Notes |
+|------|----------|-------|
+| 10:00 | Sleep in | |
+| 11:00 | Tokyo activity you missed | Revisit favorites or try something new |
+| - | Options: Edo-Tokyo Museum, TeamLab, more Yanaka | |
+| 19:00 | Dinner | |
+
+**Tips for Day 6:**
+- Check forecast the night before
+- Book bus at [highwaybus.com](https://www.highwaybus.com) if going
+- Reserve Yurari shuttle: 0555-85-3126
+
+---
+
+## Final Tokyo (Days 18-21) {#final-tokyo}
+
+**3 nights in Tokyo** to end the trip. These days are intentionally flexible - revisit favorites, catch anything you missed, or just relax before the flight home.
+
+> 💡 **Need activity ideas?** See [Tokyo Alternatives](01a_tokyo_alternatives.md) for optional activities like TeamLab, Akihabara, Skytree, DisneySea, and more.
+
+> ⚠️ **Golden Week Warning:** April 29 is the start of Golden Week (major holiday). Expect crowds everywhere, especially tourist spots!
 
 ### Day 18 - April 26 (Sunday): Return from Okinawa
 
@@ -208,7 +251,29 @@ Tokyo is the world's largest metropolitan area - a mind-bending mix of ancient t
 |------|----------|-------|
 | Flexible | Relaxed morning | |
 | Afternoon | Any last activities | |
-| Evening | Pack, early night | |
+| Evening | Dinner, relax | |
+
+### Day 21 - April 29 (Wednesday): Final Day (Golden Week!)
+
+⚠️ **Shōwa Day** - National holiday, start of Golden Week. Very crowded!
+
+| Time | Activity | Notes |
+|------|----------|-------|
+| 10:00 | Relaxed start | |
+| 11:00 | Low-key activities | Avoid major tourist spots |
+| - | **Options:** | |
+| - | - Neighborhood walk (Yanaka less crowded) | |
+| - | - Indoor: TeamLab or Edo-Tokyo Museum | |
+| - | - Shopping (early is better) | |
+| - | - Return to a favorite quiet spot | |
+| 18:00 | Early dinner | Restaurants get busy! |
+| 20:00 | Pack everything | Early flight tomorrow! |
+
+**Tips for Golden Week:**
+- Make dinner reservations or eat early
+- Avoid Shibuya Crossing, Senso-ji, major shrines (packed)
+- Department stores and malls are very busy
+- Consider quieter neighborhoods or indoor museums
 
 ---
 
@@ -276,7 +341,7 @@ See [Tokyo Alternatives](01a_tokyo_alternatives.md) for more options including T
 |------|-------------|-------|-------|
 | **Business Hotel** | Compact, efficient, clean | €60-100 | Best value for couples, e.g., APA, Tokyu Stay, Mitsui Garden |
 | **Capsule Hotel** | Pod-style sleeping | €30-50 | Fun to try once, but not for couples |
-| **Ryokan** | Traditional Japanese inn | €150-400 | Save this for Hakone/Kawaguchiko |
+| **Ryokan** | Traditional Japanese inn | €150-400 | Nice experience but expensive; public onsen is better value |
 | **Western Hotel** | International chains | €120-250 | Marriott, Hyatt, etc. - familiar but pricey |
 
 ### Sample Hotels (Shinjuku, Mid-Range)
