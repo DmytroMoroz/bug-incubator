@@ -221,14 +221,15 @@ Tokyo is the world's largest metropolitan area - a mind-bending mix of ancient t
 
 ### Day 18 - April 26 (Sunday): Return from Okinawa
 
+> ✈️ **Flight:** ANA 468 arrives Haneda **16:30**
+
 | Time | Activity | Notes |
 |------|----------|-------|
-| 10:00 | Flight from Naha | |
-| 13:00 | Arrive Tokyo (Haneda) | |
-| 14:00 | Train to hotel | |
-| 15:00 | Check in, rest | |
-| 17:00 | Revisit favorite neighborhood | Or explore somewhere new |
-| 19:00 | Dinner | Revisit a favorite or try new |
+| **16:30** | **Arrive Tokyo Haneda** | |
+| 17:00 | Train to hotel | Haneda → central Tokyo ~30 min |
+| 17:30 | Check in | |
+| 18:30 | Explore neighborhood | Quick walk, get oriented again |
+| 19:30 | Dinner | Revisit a favorite or try new |
 
 ### Day 19 - April 27 (Monday): Shopping & Farewell
 

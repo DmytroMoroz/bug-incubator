@@ -10,14 +10,14 @@
 | Category | Total (2 ppl) |
 |----------|---------------|
 | Accommodation | €2,010 |
-| Transportation | €1,385 |
+| Transportation | €1,749 |
 | Food | €1,400 |
 | Activities | €510 |
-| **TOTAL** | **€5,305** |
+| **TOTAL** | **€5,669** |
 | **Budget** | €5,000 |
-| **Difference** | **€305 OVER** ⚠️ |
+| **Difference** | **€669 OVER** ⚠️ |
 
-**Verdict:** Slightly over budget. See "Ways to Save" below to get back under €5,000.
+**Verdict:** Over budget due to domestic flight costs. See savings tips below.
 
 ---
 
@@ -58,12 +58,12 @@
 | Kyoto → Nara (round trip) | Train | €30 |
 | Kyoto → Hiroshima | Shinkansen | €130 |
 | Hiroshima → Miyajima | Train + Ferry | €30 |
-| Hiroshima/Fukuoka → Naha | Flight | €200 |
+| Hiroshima → Naha | Flight (ANA 1861) ✅ | €382 |
 | Okinawa rental car (5 days) | Car rental | €350 |
-| Naha → Tokyo | Flight | €200 |
+| Naha → Tokyo (Haneda) | Flight (ANA 468) ✅ | €382 |
 | Tokyo local (final stay) | IC card | €30 |
 | Airport ↔ Tokyo (departure) | Train/Bus | €30 |
-| **TOTAL** | | **€1,385** |
+| **TOTAL** | | **€1,749** |
 
 ### Why No JR Pass
 | Pass | Cost (2 ppl) |
@@ -174,20 +174,22 @@ These rates fluctuate - check current rates before trip.
 
 ## Over Budget ⚠️
 
-You're at **~€5,305** - about €305 over the €5,000 target.
+You're at **~€5,669** - about €669 over the €5,000 target.
 
-### Ways to Get Back Under Budget
+Domestic flights cost more than estimated (€764 vs €400 budgeted).
+
+### Ways to Reduce Costs
 
 | Adjustment | Save | Notes |
 |------------|------|-------|
 | Cheaper Tokyo hotels (€70/night instead of €90) | €200 | Business hotels, slightly further from station |
 | Cheaper Okinawa hotel (€80/night instead of €100) | €100 | Onna Village has many options |
-| 4-5 konbini dinners instead of restaurants | €80-100 | Konbini food is actually great! |
-| Budget airline for domestic flights | €60-100 | Peach/Jetstar (watch baggage fees) |
+| Cheaper Kyoto hotel (€80/night instead of €100) | €80 | Many good options |
+| More konbini/casual meals | €150-200 | Konbini food is actually great! |
 | Skip Kawaguchiko if weather is bad | €100+ | No bus cost, no onsen entry |
 | Smaller rental car in Okinawa | €50-70 | Compact is fine for 2 people |
 
-**Combine 2-3 of these to get back to €5,000 or under.**
+**Realistic adjusted budget: ~€5,500-5,700** (accept ~€500-700 over, or cut accommodation costs)
 
 ---
 

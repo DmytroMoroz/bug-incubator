@@ -82,31 +82,27 @@ Hiroshima is forever linked to August 6, 1945, when it became the first city to 
 
 ### Day 13 - April 21 (Tuesday): Miyajima Morning + Travel to Okinawa
 
+> ✈️ **Flight booked:** ANA 1861 departs Hiroshima **11:20** → arrives Naha **13:15**
+
 | Time | Activity | Notes |
 |------|----------|-------|
-| 06:00 | **Early morning walk** | Island is empty and magical |
-| 07:00 | Check tide schedule | High tide = torii appears to float |
-| 07:30 | Breakfast at ryokan/hotel | |
-| 09:00 | **Itsukushima Shrine** (if high tide) | Shrine "floating" on water |
-| 09:30 | **Mt. Misen** | |
-| - | Option A: Ropeway up + hike down | ~2 hours total |
-| - | Option B: Full hike up and down | ~3 hours |
-| - | Views of Inland Sea are spectacular | |
-| 12:00 | Return to town, last looks | |
-| 12:30 | **Ferry back to mainland** | |
-| 13:00 | Train to Hiroshima Station | |
-| 13:30 | Pick up any stored luggage | |
-| 14:00 | Train/bus to airport | |
-| - | **Option A:** Hiroshima Airport (HIJ) | Fewer flights to Naha |
-| - | **Option B:** Fukuoka Airport (FUK) | More Okinawa flights, 1h Shinkansen |
-| 16:00 | **Flight to Naha, Okinawa** | ~1.5 hours |
-| 17:30 | Arrive Naha | |
+| 06:00 | **Early morning walk** | Island is quiet and magical |
+| 06:30 | Sunrise at torii gate | Check tide - high tide = floating effect |
+| 07:00 | Breakfast at hotel | |
+| 07:30 | Quick walk around shrine area | Last looks at Miyajima |
+| 08:00 | **Check out, ferry to mainland** | Don't miss the ferry! |
+| 08:30 | Train to Hiroshima Station | ~30 min |
+| 09:00 | Hiroshima Station | Pick up stored luggage if any |
+| 09:15 | Airport bus to Hiroshima Airport | ~45 min, ¥1,400 |
+| 10:00 | Arrive airport, check in | |
+| **11:20** | **✈️ ANA 1861 to Naha** | |
+| **13:15** | **Arrive Naha, Okinawa** | Pick up rental car at airport |
 
 **Tips for Day 13:**
-- Check tide times for Miyajima: High tide = floating effect
-- Mt. Misen ropeway opens at 9:00
-- Hiroshima Airport has limited Okinawa flights - Fukuoka may have better options
-- Book domestic flight in advance
+- ⚠️ **Early start required** - leave Miyajima by 8:00!
+- No time for Mt. Misen this morning (do it evening of Day 12 if possible)
+- Airport bus from Hiroshima Station: buy ticket at bus center
+- Have flight confirmation ready
 
 ---
 

@@ -58,16 +58,20 @@ Public transportation is extremely limited outside Naha city. The monorail only 
 
 ### Day 13 Afternoon - April 21 (Tuesday): Arrival
 
-*(You fly from Hiroshima/Fukuoka)*
+> ✈️ **Flight:** ANA 1861 arrives Naha **13:15**
 
 | Time | Activity | Notes |
 |------|----------|-------|
-| 17:30 | Arrive Naha Airport | |
-| 18:00 | **Pick up rental car** | At airport rental counter |
-| 18:30 | Drive to hotel | Onna Village ~1 hour north |
-| 19:30 | Check in | |
-| 20:00 | Dinner at hotel or nearby | |
-| 21:00 | Beach sunset (if timing works) | |
+| **13:15** | **Arrive Naha Airport** | |
+| 13:45 | **Pick up rental car** | At airport rental counter |
+| 14:15 | Drive toward hotel | Onna Village ~1 hour north |
+| 15:15 | Check in (or drop bags if early) | |
+| 15:30 | **Explore Onna Village** | Beach walk, get oriented |
+| 17:30 | **Sunset at Cape Manzamo** | Famous elephant-shaped cliff |
+| 19:00 | Dinner: Try Okinawa soba | |
+| 21:00 | Relax, early night | |
+
+**Bonus:** Early arrival = full afternoon to enjoy!
 
 ---
 
@@ -80,7 +84,7 @@ Public transportation is extremely limited outside Naha city. The monorail only 
 | 11:00 | **Beach time** | Hotel beach or Manza Beach |
 | 13:00 | Beachside lunch | |
 | 15:00 | Swimming, relaxing | |
-| 17:00 | **Sunset at Cape Manzamo** | Famous elephant-shaped cliff |
+| 17:00 | Beach walk or revisit Cape Manzamo | |
 | 19:00 | **Dinner: Okinawa Soba** | See [Food Guide](07_food_guide.md#okinawa) |
 | 21:00 | Stargazing (less light pollution here) | |
 
@@ -187,14 +191,22 @@ Choose your adventure:
 
 ### Day 18 - April 26 (Sunday): Departure to Tokyo
 
+> ✈️ **Flight:** ANA 468 departs Naha **14:05** → arrives Haneda **16:30**
+
 | Time | Activity | Notes |
 |------|----------|-------|
-| 07:00 | Breakfast | |
-| 08:00 | Check out, drive to airport | Allow extra time |
-| 09:00 | **Return rental car** | At Naha Airport |
-| 09:30 | Airport check-in | |
-| 10:00 | **Flight to Tokyo (Haneda)** | ~2.5 hours |
-| 12:30 | Arrive Tokyo | |
+| 08:00 | Relaxed breakfast | No rush! |
+| 09:00 | Check out | |
+| 09:30 | **Last Naha morning** | Kokusai Street shopping, pick up souvenirs |
+| 11:30 | Lunch in Naha | Last Okinawa soba? |
+| 12:30 | Drive to airport | ~20 min |
+| 13:00 | **Return rental car** | At Naha Airport |
+| 13:30 | Airport check-in | |
+| **14:05** | **✈️ ANA 468 to Tokyo** | |
+| **16:30** | **Arrive Haneda** | |
+| 17:00 | Train to hotel | Haneda is close to central Tokyo |
+| 18:00 | Check in | |
+| 19:00 | Dinner in Tokyo | Back in the capital! |
 
 ---
 

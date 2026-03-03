@@ -63,14 +63,13 @@ These sell out or get expensive - don't wait!
   
 - [✓] **Tokyo → Vienna** (Apr 30, depart 11:10) ✅ BOOKED
 
-- [ ] **Hiroshima → Naha** (Apr 21, afternoon)
-  - Check Hiroshima Airport (HIJ) - limited flights
-  - Alternative: Fukuoka Airport (FUK) - more options, 1h Shinkansen from Hiroshima
-  - Airlines: ANA, JAL, Peach, Solaseed
+- [✓] **Hiroshima → Naha** (Apr 21, 11:20-13:15) ✅ BOOKED
+  - ANA 1861, direct
   
-- [ ] **Naha → Tokyo** (Apr 26, morning)
-  - Haneda preferred (closer to city than Narita)
-  - Airlines: ANA, JAL, Skymark, Peach
+- [✓] **Naha → Tokyo** (Apr 26, 14:05-16:30) ✅ BOOKED
+  - ANA 468, Haneda, direct
+  
+**Total: €764 for 2 people**
 
 ---
 
