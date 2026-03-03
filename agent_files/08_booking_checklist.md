@@ -24,7 +24,7 @@ These sell out or get expensive - don't wait!
 
 | Item | Notes | How to Book | Est. Cost |
 |------|-------|-------------|-----------|
-| **Domestic flights** | Hiroshima→Naha, Naha→Tokyo | ANA, JAL, Peach, Jetstar | €100-200/flight |
+| ~~**Domestic flights**~~ | ✅ BOOKED | | |
 | **Tokyo hotels (6 nights)** | Good availability but book for peace of mind | Booking.com, Agoda | €80-100/night |
 | **Kyoto hotels (4 nights)** | Popular destination | Booking.com, Agoda | €90-110/night |
 | **Okinawa rental car** | April is peak, prices high | Nippon, Toyota, Times | €60-75/day |
@@ -68,8 +68,8 @@ These sell out or get expensive - don't wait!
   
 - [✓] **Naha → Tokyo** (Apr 26, 14:05-16:30) ✅ BOOKED
   - ANA 468, Haneda, direct
-  
-**Total: €764 for 2 people**
+
+⚠️ **Double-check luggage allowance for all flights!** ANA domestic usually includes 20kg checked bag - verify your bookings.
 
 ---
 
@@ -112,6 +112,7 @@ These sell out or get expensive - don't wait!
 
 | Task | Status |
 |------|--------|
+| **Double-check luggage allowance for ALL flights** | [ ] |
 | Passport valid 6+ months | [ ] |
 | Travel insurance purchased | [ ] |
 | **eSIM purchased & installed** (Ubigi) | [ ] |
