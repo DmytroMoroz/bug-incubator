@@ -20,14 +20,14 @@
 | **Departure** | April 30, 2026 @ 11:10 (Tokyo) |
 | **Duration** | 21 nights / 20 full days |
 | **Style** | Relaxed exploration, food-focused |
-| **Estimated Cost** | ~€4,990 |
+| **Estimated Cost** | ~€5,305 (see [budget](09_budget.md) to save €300+) |
 
 ---
 
 ## Route at a Glance
 
 ```
-Tokyo (6 nights) → Kyoto (4) → Hiroshima (2) → Okinawa (4) → Tokyo (3)
+Tokyo (6 nights) → Kyoto (4) → Hiroshima (2) → Okinawa (5) → Tokyo (4)
 ```
 
 *Kawaguchiko/Fuji = day trip from Tokyo (flexible date based on weather)*
@@ -41,8 +41,8 @@ Tokyo (6 nights) → Kyoto (4) → Hiroshima (2) → Okinawa (4) → Tokyo (3)
 | Apr 9-15 | **Tokyo** | 6 | Senso-ji, Museums, Yanaka, Tea Ceremony, **Fuji day trip** | [→ Tokyo Guide](01_tokyo.md) |
 | Apr 15-19 | **Kyoto** | 4 | Golden Pavilion, Fushimi Inari, Bamboo Grove, Nara | [→ Kyoto Guide](03_kyoto.md) |
 | Apr 19-21 | **Hiroshima** | 2 | Peace Memorial, Miyajima Island | [→ Hiroshima Guide](04_hiroshima.md) |
-| Apr 22-26 | **Okinawa** | 4 | Beaches, Aquarium, Tropical paradise | [→ Okinawa Guide](05_okinawa.md) |
-| Apr 26-29 | **Tokyo** | 3 | Shopping, farewell dinner, optional activities | [→ Tokyo Guide](01_tokyo.md#final-tokyo) |
+| Apr 21-26 | **Okinawa** | 5 | Beaches, Aquarium, Tropical paradise | [→ Okinawa Guide](05_okinawa.md) |
+| Apr 26-30 | **Tokyo** | 4 | Shopping, farewell dinner, buffer days | [→ Tokyo Guide](01_tokyo.md#final-tokyo) |
 | Apr 30 | **Departure** | - | 11:10 flight home | |
 
 ---

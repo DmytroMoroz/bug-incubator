@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| **Total Nights** | 9 (6 first stay + 3 final stay) |
+| **Total Nights** | 10 (6 first stay + 4 final stay) |
 | **Best Area to Stay** | Shinjuku or Shibuya |
 | **Budget per Night** | €80-100 |
 | **Getting Around** | Metro + walking (get Suica card!) |
@@ -213,7 +213,7 @@ Tokyo is the world's largest metropolitan area - a mind-bending mix of ancient t
 
 ## Final Tokyo (Days 18-21) {#final-tokyo}
 
-**3 nights in Tokyo** to end the trip. These days are intentionally flexible - revisit favorites, catch anything you missed, or just relax before the flight home.
+**4 nights in Tokyo** to end the trip. These days are intentionally flexible - revisit favorites, catch anything you missed, or just relax before the flight home.
 
 > 💡 **Need activity ideas?** See [Tokyo Alternatives](01a_tokyo_alternatives.md) for optional activities like TeamLab, Akihabara, Skytree, DisneySea, and more.
 

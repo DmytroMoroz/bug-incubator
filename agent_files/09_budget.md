@@ -9,15 +9,15 @@
 
 | Category | Total (2 ppl) |
 |----------|---------------|
-| Accommodation | €1,820 |
-| Transportation | €1,260 |
+| Accommodation | €2,010 |
+| Transportation | €1,385 |
 | Food | €1,400 |
 | Activities | €510 |
-| **TOTAL** | **€4,990** |
+| **TOTAL** | **€5,305** |
 | **Budget** | €5,000 |
-| **Difference** | **€10 UNDER** ✅ |
+| **Difference** | **€305 OVER** ⚠️ |
 
-**Verdict:** Under budget! Day trip to Kawaguchiko (instead of overnight) saves ~€150.
+**Verdict:** Slightly over budget. See "Ways to Save" below to get back under €5,000.
 
 ---
 
@@ -29,9 +29,9 @@
 | Kyoto | 4 | €100 | €400 |
 | Hiroshima | 1 | €80 | €80 |
 | Miyajima | 1 | €130 | €130 |
-| Okinawa (Onna Village) | 4 | €100 | €400 |
-| Tokyo (final stay) | 3 | €90 | €270 |
-| **TOTAL** | **19 nights** | | **€1,820** |
+| Okinawa (Onna Village) | 5 | €100 | €500 |
+| Tokyo (final stay) | 4 | €90 | €360 |
+| **TOTAL** | **21 nights** | | **€2,010** |
 
 ### Notes on Accommodation
 - **Kawaguchiko:** Day trip from Tokyo (no overnight needed!)
@@ -59,11 +59,11 @@
 | Kyoto → Hiroshima | Shinkansen | €130 |
 | Hiroshima → Miyajima | Train + Ferry | €30 |
 | Hiroshima/Fukuoka → Naha | Flight | €200 |
-| Okinawa rental car (4 days) | Car rental | €280 |
+| Okinawa rental car (5 days) | Car rental | €350 |
 | Naha → Tokyo | Flight | €200 |
 | Tokyo local (final stay) | IC card | €30 |
 | Airport ↔ Tokyo (departure) | Train/Bus | €30 |
-| **TOTAL** | | **€1,270** |
+| **TOTAL** | | **€1,385** |
 
 ### Why No JR Pass
 | Pass | Cost (2 ppl) |
@@ -151,9 +151,9 @@ Many highlights are free or nearly free:
 | Tokyo 1 | 6 | €540 | €170 | €420 | €210 | €1,340 |
 | Kyoto | 4 | €400 | €230 | €280 | €80 | €990 |
 | Hiroshima | 2 | €210 | €160 | €140 | €50 | €560 |
-| Okinawa | 4 | €400 | €480 | €280 | €150 | €1,310 |
-| Tokyo 2 | 3 | €270 | €60 | €210 | €40 | €580 |
-| **TOTAL** | **19** | **€1,820** | **€1,100** | **€1,330** | **€530** | **€4,780** |
+| Okinawa | 5 | €500 | €550 | €350 | €150 | €1,550 |
+| Tokyo 2 | 4 | €360 | €60 | €280 | €40 | €740 |
+| **TOTAL** | **21** | **€2,010** | **€1,170** | **€1,400** | **€530** | **€5,110** |
 
 *Kawaguchiko is a day trip from Tokyo - no overnight needed, saves ~€150*
 
@@ -172,25 +172,22 @@ These rates fluctuate - check current rates before trip.
 
 ---
 
-## Just Under Budget ✅
+## Over Budget ⚠️
 
-You're at **~€4,990** - about €10 under budget (tight but works!)
+You're at **~€5,305** - about €305 over the €5,000 target.
 
-### Minimal Buffer Available (~€10)
+### Ways to Get Back Under Budget
 
-| If you want to splurge | Cost |
-|------------------------|------|
-| Upgrade sushi dinner | +€50 |
-| Extra snorkeling in Okinawa | +€60 |
-| Private bath at Fuji Yurari | +€22 |
+| Adjustment | Save | Notes |
+|------------|------|-------|
+| Cheaper Tokyo hotels (€70/night instead of €90) | €200 | Business hotels, slightly further from station |
+| Cheaper Okinawa hotel (€80/night instead of €100) | €100 | Onna Village has many options |
+| 4-5 konbini dinners instead of restaurants | €80-100 | Konbini food is actually great! |
+| Budget airline for domestic flights | €60-100 | Peach/Jetstar (watch baggage fees) |
+| Skip Kawaguchiko if weather is bad | €100+ | No bus cost, no onsen entry |
+| Smaller rental car in Okinawa | €50-70 | Compact is fine for 2 people |
 
-### Or Save Even More
-
-| Adjustment | Save |
-|------------|------|
-| 2 konbini dinners instead of restaurants | €30 |
-| Skip Kawaguchiko if weather bad | €100+ |
-| Budget airline for one domestic flight | €40 |
+**Combine 2-3 of these to get back to €5,000 or under.**
 
 ---
 

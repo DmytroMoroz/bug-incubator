@@ -28,7 +28,8 @@ These sell out or get expensive - don't wait!
 | **Tokyo hotels (6 nights)** | Good availability but book for peace of mind | Booking.com, Agoda | €80-100/night |
 | **Kyoto hotels (4 nights)** | Popular destination | Booking.com, Agoda | €90-110/night |
 | **Okinawa rental car** | April is peak, prices high | Nippon, Toyota, Times | €60-75/day |
-| **Okinawa hotel (4 nights)** | Onna Village area | Booking.com | €80-120/night |
+| **Okinawa hotel (5 nights)** | Onna Village area | Booking.com | €80-120/night |
+| **Miyajima hotel (1 night)** | Small island, limited rooms - book early! | Booking.com, direct | €100-150/night |
 
 ---
 
@@ -37,7 +38,6 @@ These sell out or get expensive - don't wait!
 | Item | Notes | How to Book | Est. Cost |
 |------|-------|-------------|-----------|
 | **Hiroshima hotel (1 night)** | Good availability | Booking.com | €70-90/night |
-| **Miyajima ryokan/hotel (1 night)** | Recommend staying on island | Booking.com, direct | €100-150/night |
 | **Restaurant reservations** | Kichi Kichi (Kyoto), special dinners | Direct/Tabelog | Varies |
 
 ---
@@ -82,8 +82,8 @@ These sell out or get expensive - don't wait!
 | Kyoto | Apr 15-19 | 4 | [ ] |
 | Hiroshima | Apr 19-20 | 1 | [ ] |
 | Miyajima | Apr 20-21 | 1 | [ ] |
-| Okinawa | Apr 22-26 | 4 | [ ] |
-| Tokyo #2 | Apr 26-29 | 3 | [ ] |
+| Okinawa | Apr 21-26 | 5 | [ ] |
+| Tokyo #2 | Apr 26-30 | 4 | [ ] |
 
 ---
 
@@ -103,7 +103,7 @@ These sell out or get expensive - don't wait!
 
 | Item | Status | Notes |
 |------|--------|-------|
-| Okinawa rental car | [ ] | Pick up Naha Airport Apr 22, return Apr 26 |
+| Okinawa rental car | [ ] | Pick up Naha Airport Apr 21, return Apr 26 (5 days) |
 | eSIM (Ubigi) | [ ] | Buy online, install before trip - see [Practical Info](06_practical_info.md) |
 | International Driving Permit | [ ] | Get from ÖAMTC or equivalent |
 

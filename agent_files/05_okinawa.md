@@ -1,5 +1,5 @@
 # Okinawa Guide
-**Days 14-17 (Apr 22-26)**
+**Days 13-17 (Apr 21-26)**
 
 [← Back to Overview](00_TRIP_OVERVIEW.md) | [← Hiroshima](04_hiroshima.md)
 
@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| **Nights** | 4 |
+| **Nights** | 5 |
 | **Best Area to Stay** | Onna Village (beaches) or Naha (city) |
 | **Budget per Night** | €80-120 |
 | **Getting Around** | **Rental car ESSENTIAL** |
