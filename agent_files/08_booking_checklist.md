@@ -27,7 +27,7 @@ These sell out or get expensive - don't wait!
 | ~~**Domestic flights**~~ | ✅ BOOKED | | |
 | **Tokyo hotels (6 nights)** | Good availability but book for peace of mind | Booking.com, Agoda | €80-100/night |
 | **Kyoto hotels (4 nights)** | Popular destination | Booking.com, Agoda | €90-110/night |
-| **Okinawa rental car** | April is peak, prices high | Nippon, Toyota, Times | €60-75/day |
+| ~~**Okinawa rental car**~~ | ✅ BOOKED (Toyota, Res# 99939561400) | | |
 | **Okinawa hotel (5 nights)** | Onna Village area | Booking.com | €80-120/night |
 | **Miyajima hotel (1 night)** | Small island, limited rooms - book early! | Booking.com, direct | €100-150/night |
 
@@ -102,7 +102,7 @@ These sell out or get expensive - don't wait!
 
 | Item | Status | Notes |
 |------|--------|-------|
-| Okinawa rental car | [ ] | Pick up Naha Airport Apr 21, return Apr 26 (5 days) |
+| Okinawa rental car | [✓] | ✅ Toyota, Apr 21 14:00 - Apr 26 12:00 |
 | eSIM (Ubigi) | [ ] | Buy online, install before trip - see [Practical Info](06_practical_info.md) |
 | International Driving Permit | [ ] | Get from ÖAMTC or equivalent |
 

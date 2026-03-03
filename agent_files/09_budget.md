@@ -10,12 +10,12 @@
 | Category | Total (2 ppl) |
 |----------|---------------|
 | Accommodation | €2,010 |
-| Transportation | €1,749 |
+| Transportation | €1,736 |
 | Food | €1,400 |
 | Activities | €510 |
-| **TOTAL** | **€5,669** |
+| **TOTAL** | **€5,656** |
 | **Budget** | €5,000 |
-| **Difference** | **€669 OVER** ⚠️ |
+| **Difference** | **€656 OVER** ⚠️ |
 
 **Verdict:** Over budget due to domestic flight costs. See savings tips below.
 
@@ -59,11 +59,11 @@
 | Kyoto → Hiroshima | Shinkansen | €130 |
 | Hiroshima → Miyajima | Train + Ferry | €30 |
 | Hiroshima → Naha | Flight (ANA 1861) ✅ | €382 |
-| Okinawa rental car (5 days) | Car rental | €350 |
+| Okinawa rental car (5 days) | Toyota C1 ✅ | €337 |
 | Naha → Tokyo (Haneda) | Flight (ANA 468) ✅ | €382 |
 | Tokyo local (final stay) | IC card | €30 |
 | Airport ↔ Tokyo (departure) | Train/Bus | €30 |
-| **TOTAL** | | **€1,749** |
+| **TOTAL** | | **€1,736** |
 
 ### Why No JR Pass
 | Pass | Cost (2 ppl) |
