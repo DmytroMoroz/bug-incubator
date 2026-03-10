@@ -29,7 +29,7 @@ These sell out or get expensive - don't wait!
 | **Tokyo hotel #2 (4 nights)** | Apr 26-30, book soon | Booking.com, Agoda | €80-100/night |
 | ~~**Kyoto hotels (4 nights)**~~ | ✅ BOOKED | | |
 | ~~**Okinawa rental car**~~ | ✅ BOOKED (Toyota, Res# 99939561400) | | |
-| **Okinawa hotel (5 nights)** | Onna Village area | Booking.com | €80-120/night |
+| ~~**Okinawa hotel (5 nights)**~~ | ✅ BOOKED – LOW COST RESORT MANZA BEACH | | |
 | **Miyajima hotel (1 night)** | Small island, limited rooms - book early! | Booking.com, direct | €100-150/night |
 
 ---
@@ -82,7 +82,7 @@ These sell out or get expensive - don't wait!
 | Kyoto | Apr 15-19 | 4 | [✓] ✅ Cross Hotel Kyoto |
 | Hiroshima | Apr 19-20 | 1 | [ ] |
 | Miyajima | Apr 20-21 | 1 | [ ] |
-| Okinawa | Apr 21-26 | 5 | [ ] |
+| Okinawa | Apr 21-26 | 5 | [✓] ✅ LOW COST RESORT MANZA BEACH (Conf# 2597447969785883756) |
 | Tokyo #2 | Apr 26-30 | 4 | [ ] |
 
 ---

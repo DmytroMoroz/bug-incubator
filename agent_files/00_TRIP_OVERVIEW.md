@@ -20,7 +20,7 @@
 | **Departure** | April 30, 2026 @ 11:10 (Tokyo) |
 | **Duration** | 21 nights / 20 full days |
 | **Style** | Relaxed exploration, food-focused |
-| **Estimated Cost** | ~€5,900 (see [budget](09_budget.md) for details) |
+| **Estimated Cost** | ~€5,734 (see [budget](09_budget.md) for details) |
 
 ---
 
