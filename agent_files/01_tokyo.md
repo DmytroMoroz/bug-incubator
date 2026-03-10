@@ -45,13 +45,14 @@ Tokyo is the world's largest metropolitan area - a mind-bending mix of ancient t
 | 08:50 | Land at Narita/Haneda | |
 | 09:30 | Immigration, baggage | Can take 30-60 min |
 | 10:00 | **Activate eSIM** | Turn on, should connect automatically |
-| 10:15 | Train to Shinjuku/Shibuya | Narita Express (~1h) or Limousine Bus |
+| 10:15 | Train to Asakusa | Keisei Skyliner to Ueno (~40 min) then subway, or N'EX to Ueno then Ginza line |
 | 12:00 | Check into hotel | Leave bags if room not ready |
-| 12:30 | Light lunch nearby | |
+| 12:30 | Light lunch nearby | Asakusa has great options right outside |
 | 14:00 | Rest / freshen up | Beat jet lag with a nap |
-| 17:00 | Walk around Shinjuku | Get oriented |
-| 18:00 | **Tokyo Metropolitan Government Building** | FREE 45th floor views - both north & south observatories |
-| 19:30 | **Dinner: Omoide Yokocho** | Tiny yakitori joints under the tracks |
+| 17:00 | Explore Asakusa area | Senso-ji approach, Nakamise Street, riverside walk |
+| 18:30 | Subway to Shinjuku (~35 min) | Toei Oedo line or Toei Asakusa → transfer |
+| 19:00 | **Tokyo Metropolitan Government Building** | FREE 45th floor views - both north & south observatories |
+| 20:30 | **Dinner: Omoide Yokocho** | Tiny yakitori joints under the tracks |
 
 **Before your trip:**
 - ✅ **Install eSIM** (Ubigi recommended) - see [Practical Info](06_practical_info.md#wi-fi--connectivity)
@@ -61,6 +62,7 @@ Tokyo is the world's largest metropolitan area - a mind-bending mix of ancient t
 - Don't plan too much - jet lag is real
 - The Government Building closes at 22:00, great for evening views
 - Omoide Yokocho is cash-only, smoky, atmospheric
+- Last subway back to Asakusa around midnight — keep an eye on the time
 
 ---
 
@@ -145,7 +147,7 @@ Tokyo is the world's largest metropolitan area - a mind-bending mix of ancient t
 | Time | Activity | Notes |
 |------|----------|-------|
 | 08:30 | Check out hotel | |
-| 09:00 | **Send luggage to Kyoto** | Takuhaibin from hotel (arrives next day) |
+| 09:00 | **Send luggage to Kyoto** | Drop at nearest 7-Eleven/Lawson (2 min walk) — Yamato pickup, arrives next day |
 | 09:30 | Train to Kamakura | ~1 hour from Tokyo |
 | 10:30 | **Kamakura Great Buddha** | Kotoku-in temple |
 | 11:30 | **Hase-dera Temple** | Beautiful gardens, ocean views |
@@ -183,6 +185,7 @@ Tokyo is the world's largest metropolitan area - a mind-bending mix of ancient t
 
 | Time | Activity | Notes |
 |------|----------|-------|
+| 06:15 | Subway from Asakusa to Shinjuku | ~35 min, Toei Oedo line |
 | 07:00 | Bus from Shinjuku (Busta) | Book night before! |
 | 09:00 | Arrive Kawaguchiko | |
 | 09:30 | Train to Chureito Pagoda | |
@@ -314,48 +317,23 @@ See [Tokyo Alternatives](01a_tokyo_alternatives.md) for more options including T
 
 ## Where to Stay in Tokyo
 
-### Best Areas for First-Time Visitors
+### First Stay (Apr 9-15): ✅ Booked
 
-| Area | Why Stay Here | Pros | Cons | Price Range |
-|------|---------------|------|------|-------------|
-| **Shinjuku** | Major transport hub, central | Easy access everywhere, lots of dining/nightlife, views | Can be overwhelming, crowded | €70-120/night |
-| **Shibuya** | Young, trendy, central | Near Harajuku/Omotesando, iconic crossing, vibrant | Noisy, very crowded | €80-130/night |
-| **Asakusa** | Traditional atmosphere | Near Senso-ji, budget-friendly, authentic feel | Farther from Shibuya/Shinjuku | €50-90/night |
+**APA Hotel Asakusa Kuramae Kita** — 6 nights
+- **Area:** Kuramae/Asakusa (Taito Ward) — one of Tokyo's most atmospheric neighborhoods
+- **Rating:** 8.6 Excellent (6,000+ reviews)
+- **What's outside your door:** Senso-ji 10 min walk, Sumida River, Nakamise Street, hip Kuramae design cafés
+- **Getting around:**
+  - Asakusa Station (Toei Asakusa + Tokyo Metro Ginza lines) — 3 min walk
+  - Kuramae Station (Toei Oedo + Toei Asakusa lines) — 3 min walk
+  - To Shinjuku: ~35 min (Toei Oedo line)
+  - To Shibuya/Harajuku: ~40 min
+  - To Ueno: ~10 min
+  - From Narita: Keisei Skyliner to Ueno (~40 min), then 2 stops to Asakusa
+- **Luggage to Kyoto (Day 5):** Use the 7-Eleven or Lawson nearby — Yamato pickup, arrives next day ~¥2,000-3,000/bag
 
-### Our Recommendation: **Shinjuku**
-
-**Why Shinjuku is best for your trip:**
-- **Transport hub**: Shinjuku Station is the world's busiest - trains go everywhere
-- **Easy airport access**: Direct Narita Express from airport
-- **Walking distance**: Government Building views, Golden Gai, Omoide Yokocho
-- **Variety**: Everything from budget to luxury hotels
-- **Nightlife**: Great evening options without needing transport
-
-**Specifically, stay near:**
-- **Shinjuku Station West Exit**: Business hotels, quieter, near Government Building
-- **Shinjuku Station East Exit**: More entertainment, closer to Golden Gai
-- **Avoid**: Kabukicho red-light district (unless you want that vibe)
-
-### Hotel Types in Japan
-
-| Type | Description | Price | Notes |
-|------|-------------|-------|-------|
-| **Business Hotel** | Compact, efficient, clean | €60-100 | Best value for couples, e.g., APA, Tokyu Stay, Mitsui Garden |
-| **Capsule Hotel** | Pod-style sleeping | €30-50 | Fun to try once, but not for couples |
-| **Ryokan** | Traditional Japanese inn | €150-400 | Nice experience but expensive; public onsen is better value |
-| **Western Hotel** | International chains | €120-250 | Marriott, Hyatt, etc. - familiar but pricey |
-
-### Sample Hotels (Shinjuku, Mid-Range)
-
-| Hotel | Price/Night | Notes |
-|-------|-------------|-------|
-| **Hotel Gracery Shinjuku** | €90-120 | Famous Godzilla head on building! |
-| **Keio Plaza Hotel** | €100-150 | Near Government Building, reliable |
-| **Tokyu Stay Shinjuku** | €80-110 | Rooms have washer/dryer |
-| **APA Hotel Shinjuku** | €60-90 | Budget-friendly chain, small rooms |
-| **Citadines Shinjuku** | €90-120 | Apartment-style, kitchenette |
-
-*Book on Booking.com or Agoda - compare prices!*
+### Second Stay (Apr 26-30): ⏳ Not yet booked
+4 nights, arriving from Haneda airport. Same area (Asakusa) recommended for continuity, or consider somewhere new since you'll know the city by then.
 
 ---
 

@@ -9,15 +9,15 @@
 
 | Category | Total (2 ppl) |
 |----------|---------------|
-| Accommodation | €2,010 |
+| Accommodation | €2,254 |
 | Transportation | €1,736 |
 | Food | €1,400 |
 | Activities | €510 |
-| **TOTAL** | **€5,656** |
+| **TOTAL** | **€5,900** |
 | **Budget** | €5,000 |
-| **Difference** | **€656 OVER** ⚠️ |
+| **Difference** | **€900 OVER** ⚠️ |
 
-**Verdict:** Over budget due to domestic flight costs. See savings tips below.
+**Verdict:** Over budget — accommodation running higher than estimated + domestic flight costs. See savings tips below.
 
 ---
 
@@ -25,13 +25,13 @@
 
 | Location | Nights | Per Night | Total |
 |----------|--------|-----------|-------|
-| Tokyo (first stay) | 6 | €90 | €540 |
-| Kyoto | 4 | €100 | €400 |
+| Tokyo (first stay) | 6 | €133 | €800 ✅ APA Hotel Asakusa Kuramae Kita |
+| Kyoto | 4 | €96 | €384 ✅ Cross Hotel Kyoto |
 | Hiroshima | 1 | €80 | €80 |
 | Miyajima | 1 | €130 | €130 |
 | Okinawa (Onna Village) | 5 | €100 | €500 |
 | Tokyo (final stay) | 4 | €90 | €360 |
-| **TOTAL** | **21 nights** | | **€2,010** |
+| **TOTAL** | **21 nights** | | **€2,254** |
 
 ### Notes on Accommodation
 - **Kawaguchiko:** Day trip from Tokyo (no overnight needed!)
@@ -148,12 +148,12 @@ Many highlights are free or nearly free:
 
 | Phase | Days | Accommodation | Transport | Food | Activities | Total |
 |-------|------|---------------|-----------|------|------------|-------|
-| Tokyo 1 | 6 | €540 | €170 | €420 | €210 | €1,340 |
-| Kyoto | 4 | €400 | €230 | €280 | €80 | €990 |
+| Tokyo 1 | 6 | €800 | €170 | €420 | €210 | €1,600 |
+| Kyoto | 4 | €384 | €230 | €280 | €80 | €974 |
 | Hiroshima | 2 | €210 | €160 | €140 | €50 | €560 |
 | Okinawa | 5 | €500 | €550 | €350 | €150 | €1,550 |
 | Tokyo 2 | 4 | €360 | €60 | €280 | €40 | €740 |
-| **TOTAL** | **21** | **€2,010** | **€1,170** | **€1,400** | **€530** | **€5,110** |
+| **TOTAL** | **21** | **€2,254** | **€1,170** | **€1,400** | **€530** | **€5,354** |
 
 *Kawaguchiko is a day trip from Tokyo - no overnight needed, saves ~€150*
 
@@ -174,7 +174,7 @@ These rates fluctuate - check current rates before trip.
 
 ## Over Budget ⚠️
 
-You're at **~€5,669** - about €669 over the €5,000 target.
+You're at **~€5,900** - about €900 over the €5,000 target.
 
 Domestic flights cost more than estimated (€764 vs €400 budgeted).
 
@@ -182,9 +182,9 @@ Domestic flights cost more than estimated (€764 vs €400 budgeted).
 
 | Adjustment | Save | Notes |
 |------------|------|-------|
-| Cheaper Tokyo hotels (€70/night instead of €90) | €200 | Business hotels, slightly further from station |
+| ~~Cheaper Tokyo hotels~~ | ~~€200~~ | ✅ Booked at €133/night |
 | Cheaper Okinawa hotel (€80/night instead of €100) | €100 | Onna Village has many options |
-| Cheaper Kyoto hotel (€80/night instead of €100) | €80 | Many good options |
+| ~~Cheaper Kyoto hotel~~ | ~~€80~~ | ✅ Booked at €96/night |
 | More konbini/casual meals | €150-200 | Konbini food is actually great! |
 | Skip Kawaguchiko if weather is bad | €100+ | No bus cost, no onsen entry |
 | Smaller rental car in Okinawa | €50-70 | Compact is fine for 2 people |

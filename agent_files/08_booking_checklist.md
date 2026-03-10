@@ -25,8 +25,9 @@ These sell out or get expensive - don't wait!
 | Item | Notes | How to Book | Est. Cost |
 |------|-------|-------------|-----------|
 | ~~**Domestic flights**~~ | ✅ BOOKED | | |
-| **Tokyo hotels (6 nights)** | Good availability but book for peace of mind | Booking.com, Agoda | €80-100/night |
-| **Kyoto hotels (4 nights)** | Popular destination | Booking.com, Agoda | €90-110/night |
+| ~~**Tokyo hotel #1 (6 nights)**~~ | ✅ BOOKED – APA Hotel Asakusa Kuramae Kita | | |
+| **Tokyo hotel #2 (4 nights)** | Apr 26-30, book soon | Booking.com, Agoda | €80-100/night |
+| ~~**Kyoto hotels (4 nights)**~~ | ✅ BOOKED | | |
 | ~~**Okinawa rental car**~~ | ✅ BOOKED (Toyota, Res# 99939561400) | | |
 | **Okinawa hotel (5 nights)** | Onna Village area | Booking.com | €80-120/night |
 | **Miyajima hotel (1 night)** | Small island, limited rooms - book early! | Booking.com, direct | €100-150/night |
@@ -77,8 +78,8 @@ These sell out or get expensive - don't wait!
 
 | City | Dates | Nights | Status |
 |------|-------|--------|--------|
-| Tokyo #1 | Apr 9-15 | 6 | [ ] |
-| Kyoto | Apr 15-19 | 4 | [ ] |
+| Tokyo #1 | Apr 9-15 | 6 | [✓] ✅ APA Hotel Asakusa Kuramae Kita |
+| Kyoto | Apr 15-19 | 4 | [✓] ✅ Cross Hotel Kyoto |
 | Hiroshima | Apr 19-20 | 1 | [ ] |
 | Miyajima | Apr 20-21 | 1 | [ ] |
 | Okinawa | Apr 21-26 | 5 | [ ] |
@@ -92,7 +93,6 @@ These sell out or get expensive - don't wait!
 |----------|------|--------|--------------|
 | Sakurai Tea (book 5pm slot) | Apr 13 | [ ] | sakurai-tea.jp/en |
 | Kichi Kichi (omurice) | Apr 17 | [ ] | kichikichi.com |
-| Miyajima hotel | Apr 20 | [ ] | Booking.com |
 
 *Optional: TeamLab Planets (Apr 12) - if you want it, book at teamlab.art*
 
