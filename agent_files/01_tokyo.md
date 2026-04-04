@@ -332,8 +332,13 @@ See [Tokyo Alternatives](01a_tokyo_alternatives.md) for more options including T
   - From Narita: Keisei Skyliner to Ueno (~40 min), then 2 stops to Asakusa
 - **Luggage to Kyoto (Day 5):** Use the 7-Eleven or Lawson nearby — Yamato pickup, arrives next day ~¥2,000-3,000/bag
 
-### Second Stay (Apr 26-30): ⏳ Not yet booked
-4 nights, arriving from Haneda airport. Same area (Asakusa) recommended for continuity, or consider somewhere new since you'll know the city by then.
+### Second Stay (Apr 26-30): ✅ Booked
+
+**Best Western Hotel Fino Tokyo Akasaka** — 4 nights
+
+- **Area:** Akasaka (Chiyoda / Minato) — quieter business district, strong dining scene, easy Ginza/Roppongi access
+- **Getting around:** Akasaka-Mitsuke / Akasaka stations (Chiyoda & Ginza metro lines); ~25–35 min to Shibuya/Shinjuku; **close to Haneda** via metro + Keikyu (~45–60 min door-to-door)
+- **Note:** Different vibe from first stay (Asakusa) — good for a “second Tokyo” feel near departure airport
 
 ---
 

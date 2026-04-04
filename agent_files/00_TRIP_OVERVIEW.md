@@ -20,7 +20,7 @@
 | **Departure** | April 30, 2026 @ 11:10 (Tokyo) |
 | **Duration** | 21 nights / 20 full days |
 | **Style** | Relaxed exploration, food-focused |
-| **Estimated Cost** | ~€5,734 (see [budget](09_budget.md) for details) |
+| **Estimated Cost** | ~€5,722 (see [budget](09_budget.md) for details) |
 
 ---
 
@@ -85,7 +85,7 @@ Tokyo (6 nights) → Kyoto (4) → Hiroshima (2) → Okinawa (5) → Tokyo (4)
 | 10 | Sat Apr 18 | Kyoto | Kiyomizu-dera, Gion |
 | 11 | Sun Apr 19 | Nara → Hiroshima | Day trip Nara, evening train |
 | 12 | Mon Apr 20 | Hiroshima | Peace Memorial |
-| 13 | Tue Apr 21 | Miyajima → Okinawa | Island morning, flight to Naha |
+| 13 | Tue Apr 21 | Hiroshima → Okinawa | Fly to Naha (Miyajima visited as day trip Apr 20) |
 | 14 | Wed Apr 22 | Okinawa | Beach day, relax |
 | 15 | Thu Apr 23 | Okinawa | Churaumi Aquarium |
 | 16 | Fri Apr 24 | Okinawa | Shuri Castle, Naha |
@@ -100,4 +100,4 @@ Tokyo (6 nights) → Kyoto (4) → Hiroshima (2) → Okinawa (5) → Tokyo (4)
 
 ---
 
-*Last updated: February 2026*
+*Last updated: April 2026*

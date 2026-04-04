@@ -9,9 +9,9 @@
 
 | | |
 |---|---|
-| **Nights** | 2 (1 Hiroshima + 1 Miyajima) |
-| **Main Experiences** | Peace Memorial, Miyajima Island |
-| **Budget per Night** | €80-130 |
+| **Nights** | 2 in **Hiroshima** (✅ Hotel Vista Hiroshima) |
+| **Main Experiences** | Peace Memorial, Miyajima Island (**day trip**) |
+| **Budget (lodging)** | €125 total (2 nights, booked) |
 | **Emotional Note** | Peace Memorial is deeply moving - plan accordingly |
 
 ---
@@ -43,14 +43,14 @@ Hiroshima is forever linked to August 6, 1945, when it became the first city to 
 | Time | Activity | Notes |
 |------|----------|-------|
 | 18:00 | Arrive Hiroshima | From Kyoto Shinkansen |
-| 18:30 | Check into hotel | Near Peace Park recommended |
+| 18:30 | Check into hotel | ✅ **Hotel Vista Hiroshima** (both nights) |
 | 19:00 | Walk to Okonomi-mura or Nagarekawa | |
 | 19:30 | **Dinner: Hiroshima-style Okonomiyaki** | See [Food Guide](07_food_guide.md#hiroshima) |
 | 21:00 | Evening walk by Peace Park | A-Bomb Dome lit at night |
 
 ---
 
-### Day 12 - April 20 (Monday): Peace Memorial
+### Day 12 - April 20 (Monday): Peace Memorial + Miyajima (day trip)
 
 | Time | Activity | Notes |
 |------|----------|-------|
@@ -61,48 +61,42 @@ Hiroshima is forever linked to August 6, 1945, when it became the first city to 
 | - | See the Cenotaph, Peace Flame | |
 | - | **A-Bomb Dome** | Preserved ruin |
 | - | Children's Peace Monument | Paper cranes |
-| 13:30 | Light lunch | |
-| 14:30 | Process, rest | Take time to reflect |
-| 15:30 | Train to Miyajimaguchi | ~30 minutes |
-| 16:00 | **Ferry to Miyajima Island** | 10-minute ride |
-| 16:30 | Arrive Miyajima | Deer will greet you immediately! |
-| 17:00 | Check into ryokan/hotel ON THE ISLAND | Highly recommended |
-| 17:30 | Walk to **Itsukushima Shrine** | |
-| 18:00 | **Watch sunset over torii gate** | Magic hour |
-| 19:30 | **Dinner on island** | Try local oysters! |
-| 21:00 | Night walk | Island is peaceful after day-trippers leave |
+| 13:30 | Light lunch | Near Peace Park |
+| 14:30 | Short rest / hotel | Drop heavy bags if needed |
+| 15:00 | JR to Miyajimaguchi | ~30 min from Hiroshima |
+| 15:30 | **Ferry to Miyajima** | ~10 min |
+| 16:00 | **Itsukushima Shrine & torii** | Check tide times (high = “floating” gate) |
+| 17:30 | **Mount Misen ropeway** *or* Daisho-in stroll | Pick one if time is tight |
+| 18:30 | **Dinner on Miyajima** | Oysters, anago — island specialties |
+| 20:00–21:00 | **Ferry + JR back to Hiroshima** | Confirm last ferry time that day |
+| 21:30 | **Hotel Vista Hiroshima** | Second night in same room |
 
 **Tips for Day 12:**
-- Peace Museum: Go with an open heart, it's difficult but important
-- Bring tissues
-- Miyajima overnight is HIGHLY recommended - the island transforms at night
-- Book Miyajima accommodation in advance
+- Peace Museum: Go with an open heart, it's difficult but important  
+- Bring tissues  
+- **No Miyajima hotel booked** — catch a **late ferry back** so you still get sunset vibes and a quieter evening on the island  
+- If you’re wiped after the museum, skip ropeway and do shrine + waterfront only
 
 ---
 
-### Day 13 - April 21 (Tuesday): Miyajima Morning + Travel to Okinawa
+### Day 13 - April 21 (Tuesday): Hiroshima → Okinawa
 
 > ✈️ **Flight booked:** ANA 1861 departs Hiroshima **11:20** → arrives Naha **13:15**
 
 | Time | Activity | Notes |
 |------|----------|-------|
-| 06:00 | **Early morning walk** | Island is quiet and magical |
-| 06:30 | Sunrise at torii gate | Check tide - high tide = floating effect |
-| 07:00 | Breakfast at hotel | |
-| 07:30 | Quick walk around shrine area | Last looks at Miyajima |
-| 08:00 | **Check out, ferry to mainland** | Don't miss the ferry! |
-| 08:30 | Train to Hiroshima Station | ~30 min |
-| 09:00 | Hiroshima Station | Pick up stored luggage if any |
-| 09:15 | Airport bus to Hiroshima Airport | ~45 min, ¥1,400 |
-| 10:00 | Arrive airport, check in | |
+| 07:30 | Breakfast, pack | |
+| 08:30 | Check out **Hotel Vista Hiroshima** | |
+| 09:00 | **Hiroshima Station** | Luggage lockers / coin lockers if you took a morning walk |
+| 09:15 | Airport limousine bus to HIJ | ~45 min, ~¥1,400 — buy at bus center |
+| 10:15 | HIJ airport | ANA check-in, security |
 | **11:20** | **✈️ ANA 1861 to Naha** | |
-| **13:15** | **Arrive Naha, Okinawa** | Pick up rental car at airport |
+| **13:15** | **Arrive Naha** | Pick up rental car (Toyota booking) |
 
 **Tips for Day 13:**
-- ⚠️ **Early start required** - leave Miyajima by 8:00!
-- No time for Mt. Misen this morning (do it evening of Day 12 if possible)
-- Airport bus from Hiroshima Station: buy ticket at bus center
-- Have flight confirmation ready
+- **No Miyajima morning** — you already did the island on Apr 20  
+- Allow buffer: bus + check-in for domestic ANA  
+- Keep Hiroshima → airport route simple (station bus is easiest)
 
 ---
 
@@ -168,13 +162,15 @@ Hiroshima is forever linked to August 6, 1945, when it became the first city to 
 2. **Ferry** Miyajimaguchi → Miyajima (10 min, ¥180)
 3. Total: ~45 minutes, easy
 
-### Miyajima Accommodation
+### Miyajima Accommodation (you’re day-tripping)
+You’re **not** staying overnight on Miyajima (both nights at **Hotel Vista Hiroshima**). Optional reference if you replan:
+
 | Type | Price | Notes |
 |------|-------|-------|
 | **Ryokan** | €150-300 | Traditional, often includes dinner |
 | **Hotel/Guesthouse** | €80-150 | More affordable |
 
-**Highly recommend staying overnight** - the island empties at 6pm when day-trippers leave.
+Overnight stays let you enjoy the island after ferries thin out — your **late return** on Apr 20 is the compromise.
 
 ### Luggage
 - Use **coin lockers** at Hiroshima Station

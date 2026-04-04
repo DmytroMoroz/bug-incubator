@@ -9,13 +9,13 @@
 
 | Category | Total (2 ppl) |
 |----------|---------------|
-| Accommodation | €2,088 |
+| Accommodation | €2,076 |
 | Transportation | €1,736 |
 | Food | €1,400 |
 | Activities | €510 |
-| **TOTAL** | **€5,734** |
+| **TOTAL** | **€5,722** |
 | **Budget** | €5,000 |
-| **Difference** | **€734 OVER** ⚠️ |
+| **Difference** | **€722 OVER** ⚠️ |
 
 **Verdict:** Over budget — accommodation running higher than estimated + domestic flight costs. See savings tips below.
 
@@ -25,18 +25,17 @@
 
 | Location | Nights | Per Night | Total |
 |----------|--------|-----------|-------|
-| Tokyo (first stay) | 6 | €133 | €800 ✅ APA Hotel Asakusa Kuramae Kita |
-| Kyoto | 4 | €96 | €384 ✅ Cross Hotel Kyoto |
-| Hiroshima | 1 | €80 | €80 |
-| Miyajima | 1 | €130 | €130 |
-| Okinawa (Onna Village) | 5 | €67 | €334 ✅ LOW COST RESORT MANZA BEACH |
-| Tokyo (final stay) | 4 | €90 | €360 |
-| **TOTAL** | **21 nights** | | **€2,088** |
+| Tokyo (first stay) | 6 | ~€133 | €795 ✅ APA Hotel Asakusa Kuramae Kita (free cancellation) |
+| Kyoto | 4 | ~€112 | €449 ✅ Rakuten STAY URBAN Shijo Teramachi (free cancellation) |
+| Hiroshima | 2 | ~€63 | €125 ✅ Hotel Vista Hiroshima (free cancellation) |
+| Okinawa (Onna Village) | 5 | ~€68 | €339 ✅ LOW COST RESORT MANZA BEACH (partner offer) |
+| Tokyo (final stay) | 4 | €92 | €368 ✅ Best Western Hotel Fino Tokyo Akasaka (**non-refundable**) |
+| **TOTAL** | **21 nights** | | **€2,076** |
 
 ### Notes on Accommodation
 - **Kawaguchiko:** Day trip from Tokyo (no overnight needed!)
-- Tokyo/Kyoto prices assume mid-range business hotels
-- Miyajima premium is for overnight on island (worth it!)
+- **Miyajima:** No island hotel booked — visit as a **day trip** from Hiroshima (see [Hiroshima guide](04_hiroshima.md))
+- Figures above are **confirmed booking totals** (2 people), rounded per-night averages in column 3
 
 ### Ways to Save
 | Change | Savings |
@@ -148,12 +147,12 @@ Many highlights are free or nearly free:
 
 | Phase | Days | Accommodation | Transport | Food | Activities | Total |
 |-------|------|---------------|-----------|------|------------|-------|
-| Tokyo 1 | 6 | €800 | €170 | €420 | €210 | €1,600 |
-| Kyoto | 4 | €384 | €230 | €280 | €80 | €974 |
-| Hiroshima | 2 | €210 | €160 | €140 | €50 | €560 |
-| Okinawa | 5 | €334 | €550 | €350 | €150 | €1,384 |
-| Tokyo 2 | 4 | €360 | €60 | €280 | €40 | €740 |
-| **TOTAL** | **21** | **€2,088** | **€1,170** | **€1,400** | **€530** | **€5,188** |
+| Tokyo 1 | 6 | €795 | €170 | €420 | €210 | €1,595 |
+| Kyoto | 4 | €449 | €230 | €280 | €80 | €1,039 |
+| Hiroshima | 2 | €125 | €160 | €140 | €50 | €475 |
+| Okinawa | 5 | €339 | €550 | €350 | €150 | €1,389 |
+| Tokyo 2 | 4 | €368 | €60 | €280 | €40 | €748 |
+| **TOTAL** | **21** | **€2,076** | **€1,170** | **€1,400** | **€530** | **€5,246** |
 
 *Kawaguchiko is a day trip from Tokyo - no overnight needed, saves ~€150*
 
@@ -174,7 +173,7 @@ These rates fluctuate - check current rates before trip.
 
 ## Over Budget ⚠️
 
-You're at **~€5,734** - about €734 over the €5,000 target.
+You're at **~€5,722** - about €722 over the €5,000 target.
 
 Domestic flights cost more than estimated (€764 vs €400 budgeted).
 
@@ -182,9 +181,9 @@ Domestic flights cost more than estimated (€764 vs €400 budgeted).
 
 | Adjustment | Save | Notes |
 |------------|------|-------|
-| ~~Cheaper Tokyo hotels~~ | ~~€200~~ | ✅ Booked at €133/night |
-| ~~Cheaper Okinawa hotel~~ | ~~€100~~ | ✅ Booked at €67/night (Manza Beach) |
-| ~~Cheaper Kyoto hotel~~ | ~~€80~~ | ✅ Booked at €96/night |
+| ~~Cheaper Tokyo hotels~~ | ~~€200~~ | ✅ First stay ~€133/night; final stay Best Western Akasaka ~€92/night |
+| ~~Cheaper Okinawa hotel~~ | ~~€100~~ | ✅ Booked Manza Beach ~€68/night |
+| ~~Cheaper Kyoto hotel~~ | ~~€80~~ | ✅ Rakuten STAY Shijo Teramachi ~€112/night |
 | More konbini/casual meals | €150-200 | Konbini food is actually great! |
 | Skip Kawaguchiko if weather is bad | €100+ | No bus cost, no onsen entry |
 | Smaller rental car in Okinawa | €50-70 | Compact is fine for 2 people |
@@ -231,7 +230,7 @@ Recommended: Keep €200-300 extra accessible for:
 |------------|--------------|
 | **Fuji Yurari private bath** | €22 for 60 min with Mt. Fuji view |
 | **Good sushi dinner** | You're in Japan! |
-| **Miyajima overnight** | Magical after tourists leave |
+| **Miyajima sunset** | Still memorable on a day trip — you’re based in Hiroshima both nights |
 | **Okinawa snorkeling** | Crystal clear water, amazing fish |
 
 | OK to Save On | Why |

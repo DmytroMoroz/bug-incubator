@@ -26,11 +26,11 @@ These sell out or get expensive - don't wait!
 |------|-------|-------------|-----------|
 | ~~**Domestic flights**~~ | ✅ BOOKED | | |
 | ~~**Tokyo hotel #1 (6 nights)**~~ | ✅ BOOKED – APA Hotel Asakusa Kuramae Kita | | |
-| **Tokyo hotel #2 (4 nights)** | Apr 26-30, book soon | Booking.com, Agoda | €80-100/night |
-| ~~**Kyoto hotels (4 nights)**~~ | ✅ BOOKED | | |
+| ~~**Tokyo hotel #2 (4 nights)**~~ | ✅ BOOKED – Best Western Hotel Fino Tokyo Akasaka (non-refundable) | | |
+| ~~**Kyoto hotels (4 nights)**~~ | ✅ BOOKED – Rakuten STAY URBAN Shijo Teramachi | | |
 | ~~**Okinawa rental car**~~ | ✅ BOOKED (Toyota, Res# 99939561400) | | |
 | ~~**Okinawa hotel (5 nights)**~~ | ✅ BOOKED – LOW COST RESORT MANZA BEACH | | |
-| **Miyajima hotel (1 night)** | Small island, limited rooms - book early! | Booking.com, direct | €100-150/night |
+| **Miyajima overnight** | Not booked — **day trip** from Hiroshima (see [Hiroshima guide](04_hiroshima.md)); add island hotel only if you replan | | |
 
 ---
 
@@ -38,7 +38,7 @@ These sell out or get expensive - don't wait!
 
 | Item | Notes | How to Book | Est. Cost |
 |------|-------|-------------|-----------|
-| **Hiroshima hotel (1 night)** | Good availability | Booking.com | €70-90/night |
+| ~~**Hiroshima hotel (2 nights)**~~ | ✅ BOOKED – Hotel Vista Hiroshima | | |
 | **Restaurant reservations** | Kichi Kichi (Kyoto), special dinners | Direct/Tabelog | Varies |
 
 ---
@@ -78,12 +78,11 @@ These sell out or get expensive - don't wait!
 
 | City | Dates | Nights | Status |
 |------|-------|--------|--------|
-| Tokyo #1 | Apr 9-15 | 6 | [✓] ✅ APA Hotel Asakusa Kuramae Kita |
-| Kyoto | Apr 15-19 | 4 | [✓] ✅ Cross Hotel Kyoto |
-| Hiroshima | Apr 19-20 | 1 | [ ] |
-| Miyajima | Apr 20-21 | 1 | [ ] |
-| Okinawa | Apr 21-26 | 5 | [✓] ✅ LOW COST RESORT MANZA BEACH (Conf# 2597447969785883756) |
-| Tokyo #2 | Apr 26-30 | 4 | [ ] |
+| Tokyo #1 | Apr 9-15 | 6 | [✓] ✅ APA Hotel Asakusa Kuramae Kita — free cancellation |
+| Kyoto | Apr 15-19 | 4 | [✓] ✅ Rakuten STAY URBAN Shijo Teramachi — free cancellation |
+| Hiroshima | Apr 19-21 | 2 | [✓] ✅ Hotel Vista Hiroshima — free cancellation |
+| Okinawa (Onna) | Apr 21-26 | 5 | [✓] ✅ LOW COST RESORT MANZA BEACH — confirmed (partner offer) |
+| Tokyo #2 | Apr 26-30 | 4 | [✓] ✅ Best Western Hotel Fino Tokyo Akasaka — **non-refundable** |
 
 ---
 
@@ -142,9 +141,8 @@ These sell out or get expensive - don't wait!
 - **Check location** - near metro station is key
 
 ### Miyajima Accommodation
-- **Book direct** for best rates and room requests
-- Staying on island overnight highly recommended
-- **Check cancellation policy** - often strict (7-14 days)
+- **Your plan:** day trip from Hiroshima (no island hotel booked) — see [Hiroshima guide](04_hiroshima.md)
+- **If you switch to overnight:** book direct when possible; cancellation policies are often strict (7–14 days)
 
 ### Domestic Flights Japan
 - **ANA/JAL** - reliable, slightly pricier

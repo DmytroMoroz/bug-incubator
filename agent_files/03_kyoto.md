@@ -16,6 +16,15 @@
 
 ---
 
+## Where to Stay (booked)
+
+**Rakuten STAY URBAN Shijo Teramachi** — 4 nights (Apr 15–19), ✅ confirmed (free cancellation)
+
+- **Area:** Shijo Teramachi — central shopping & dining, walkable to Nishiki Market, buses to major sights
+- **Practical:** Use hotel for Takkyubin (luggage forwarding) to your next stop as planned
+
+---
+
 ## Why Kyoto
 
 Kyoto was Japan's capital for over 1,000 years. It's the cultural heart of Japan with 17 UNESCO World Heritage sites, 2,000+ temples and shrines, traditional geisha districts, and refined cuisine. If Tokyo is Japan's future, Kyoto is its soul.
