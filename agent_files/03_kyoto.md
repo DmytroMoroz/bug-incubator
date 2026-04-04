@@ -18,7 +18,7 @@
 
 ## Where to Stay (booked)
 
-**Rakuten STAY URBAN Shijo Teramachi** — 4 nights (Apr 15–19), ✅ confirmed (free cancellation)
+**Rakuten STAY URBAN Shijo Teramachi** — 4 nights (Apr 15–19), ✅ confirmed
 
 - **Area:** Shijo Teramachi — central shopping & dining, walkable to Nishiki Market, buses to major sights
 - **Practical:** Use hotel for Takkyubin (luggage forwarding) to your next stop as planned

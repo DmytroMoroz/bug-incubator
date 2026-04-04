@@ -30,7 +30,7 @@ These sell out or get expensive - don't wait!
 | ~~**Kyoto hotels (4 nights)**~~ | ✅ BOOKED – Rakuten STAY URBAN Shijo Teramachi | | |
 | ~~**Okinawa rental car**~~ | ✅ BOOKED (Toyota, Res# 99939561400) | | |
 | ~~**Okinawa hotel (5 nights)**~~ | ✅ BOOKED – LOW COST RESORT MANZA BEACH | | |
-| **Miyajima overnight** | Not booked — **day trip** from Hiroshima (see [Hiroshima guide](04_hiroshima.md)); add island hotel only if you replan | | |
+| **Miyajima overnight** | Not booked — **day trip** from Hiroshima (see [Hiroshima guide](04_hiroshima.md)) | | |
 
 ---
 
@@ -142,7 +142,6 @@ These sell out or get expensive - don't wait!
 
 ### Miyajima Accommodation
 - **Your plan:** day trip from Hiroshima (no island hotel booked) — see [Hiroshima guide](04_hiroshima.md)
-- **If you switch to overnight:** book direct when possible; cancellation policies are often strict (7–14 days)
 
 ### Domestic Flights Japan
 - **ANA/JAL** - reliable, slightly pricier

@@ -15,7 +15,7 @@
 | **Getting Around** | **Rental car ESSENTIAL** |
 | **Vibe** | Tropical, relaxed, beach paradise |
 
-**Booked:** **LOW COST RESORT MANZA BEACH**（旧：北海荘）— Onna, Apr 21–26 (5 nights), confirmed (partner offer, ~€339).
+**Booked:** **LOW COST RESORT MANZA BEACH**（旧：北海荘）— Onna, Apr 21–26 (5 nights), confirmed.
 
 ---
 
